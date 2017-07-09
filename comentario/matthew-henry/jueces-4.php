@@ -1,0 +1,16 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">Jueces 4</h2>
+<p class="text-justify">Vv. 1-3.La tierra tuvo ochenta años de descanso, lo que debió confirmarlos en su religión; pero los hizo sentirse seguros y dieron el gusto a sus concupiscencias. Así, la prosperidad de los necios los destruye. Jabín y su general Sísara, oprimieron fuertemente a Israel. Este enemigo estaba más cercano que los anteriores. Israel clamó al Señor cuando la aflicción los llevó a Él, y no veían otra forma de alivio. Los que olvidan a Dios en la prosperidad, tendrán que buscarlo en la aflicción.</p>
+<br/>
+<p class="text-justify">Vv. 4-9.Débora era profetisa, instruida en el conocimiento divino por la inspiración del Espíritu de Dios. Juzgaba a Israel como boca de Dios para ellos; corregía los abusos y resolvía las quejas. Por orden de Dios, ella mandó a Barac que organizara un ejército y atacara las fuerzas de Jabín. Barac insistió mucho en que ella estuviera presente. Débora prometió ir con él. No lo iba a enviar donde ella misma no iría. Quienes en el nombre de Dios llaman a su deber a los demás, deben estar dispuestos para asistirlos. Barac aprecia más la satisfacción de su mente, y el buen éxito de su empresa que el simple honor.</p>
+<br/>
+<p class="text-justify">Vv. 10-16.La confianza de Sísara estaba en sus carros. Pero si tenemos base para esperar que Dios vaya delante de nosotros, podemos ir con valor y júbilo. No desmayéis por las dificultades que encontréis al resistir a Satanás, servir a Dios o sufrir por Él; porque, ¿no fue el Señor delante de vosotros? Seguidle entonces en todo.
+Barac descendió aunque sobre el llano los carros de hierro tendrían ventaja sobre él: él dejó la montaña dependiendo del poder divino; porque solo en el Señor está la salvación de su pueblo, Jeremías iii, 23. Él no fue defraudado en su confianza. Cuando Dios va delante de nosotros en los conflictos espirituales, debemos entrar en acción y, cuando por su gracia, nos da algún triunfo sobre los enemigos de nuestras almas, debemos mejorarlo estando alertas y resueltos.</p>
+<br/>
+<p class="text-justify">Vv. 17-24.Los carros de Sísara eran su orgullo y su confianza. De esta manera, se frustran los que descansan en la criatura; como la caña cascada no sólo se quiebra, sino los atraviesa con muchos dolores. El ídolo se vuelve rápidamente una carga, Isaías xlvi, 1; Dios puede hacer que aquello por lo cual enloquecíamos, nos enloquezca de verdad. Probablemente Jael haya realmente intentado ser amable con Sísara; pero por un impulso divino después fue llevado a considerarlo como el enemigo jurado del Señor y de su pueblo, y decidió destruirlo. Debemos romper todas nuestras relaciones con los enemigos de Dios si tenemos al Señor como nuestro Dios y su pueblo como nuestro pueblo. El que había pensado destruir a Israel con sus muchos carros de hierro, es destruido con un clavo de hierro. De esa manera, lo débil del mundo confunde al poderoso. Los israelitas hubieran evitado mucha maldad si hubieran destruido más pronto a los cananeos, como Dios les mandó y los capacitó: pero más vale ser sabios tarde que nunca, y adquirir sabiduría por la experiencia.</p>
+<br/>
+
+
+
+
+</div>

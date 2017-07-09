@@ -1,0 +1,35 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">Génesis 2</h2>
+<p class="text-justify">2.2, 3 ¡Vivimos en un mundo que está orientado hacia la acción!
+Siempre parece que hay algo para hacer y no queda tiempo para descansar. Sin embargo, Dios demostró que el descanso es adecuado y bueno. Si Dios mismo descansó de su trabajo, no debe sorprendernos que también nosotros necesitemos descansar. Jesús demostró este principio cuando El y los discípulos salieron en una barca para alejarse de la presión de la multitud (véase Mar 6:31-32). Nuestros momentos de descanso nos refrescan para estar listos para nuestros momentos de servicio.
+2.3 Que Dios haya bendecido el séptimo día significa que lo apartó para un uso santo. Este acto se toma de los Diez Mandamientos (Exo 20:1-17) donde Dios ordena la observancia del día de reposo.
+2.7 &quot;Del polvo de la tierra&quot; implica que no hay nada especial en los elementos químicos que constituyen nuestros cuerpos. El cuerpo es una cáscara inanimada hasta que Dios le da vida con su &quot;aliento de vida&quot;. Cuando Dios retira su aliento de vida, nuestros cuerpos regresan una vez más al polvo. Por lo tanto, la vida y el valor del hombre provienen del Espíritu de Dios. Muchos se jactan de sus logros y habilidades, como si ellos fueran los que originan sus propias fuerzas. Otros se sienten inútiles porque sus habilidades no se destacan. A decir verdad, nuestro valor proviene, no de nuestros logros, sino del Dios del universo que elige darnos el regalo misterioso y milagroso de la vida. El valora su vida, haga usted lo mismo.
+2.9 El nombre del &quot;árbol de la ciencia del bien y del mal&quot; implica que el mal ya existía, si no en el huerto, entonces en el momento de la caída de Satanás.
+2.9, 16, 17 ¿Acaso el árbol de vida y el árbol de la ciencia del bien y del mal eran árboles reales? A menudo se expresan dos puntos de vista diferentes:
+(1) Los árboles eran reales, pero simbólicos. La vida eterna con Dios estaba simbolizada al comer del árbol de la vida.
+(2) Los árboles eran reales, poseían propiedades especiales. Al comer el fruto del árbol de la vida; Adán y Eva podían tener vida eterna, disfrutando de una relación permanente como hijos de Dios.
+En cualquiera de los casos, el pecado de Adán y Eva los separó del árbol de la vida y así les impidió obtener vida eterna. De un modo interesante, el árbol de la vida aparece una vez más en Apocalipsis 22 donde la gente está disfrutando de vida eterna con Dios.
+2.15-17 Dios dio a Adán la responsabilidad del huerto y le dijo que no comiera del árbol de la ciencia del bien y del mal. Antes que prevenirlo físicamente de comer, Dios le dio a Adán una opción, aun cuando él pudiera escoger equivocadamente. Actualmente Dios nos sigue dando alternativas y nosotros también, escogemos equivocadamente. Estas elecciones erróneas nos pueden causar dolor, pero nos pueden enseñar a aprender y a crecer y a hacer mejores elecciones en el futuro. Vivir con la consecuencia de nuestras decisiones nos enseña a pensar y elegir con más cuidado.
+2.16, 17 ¿Por qué Dios colocó un árbol en el huerto, para después prohibir a Adán comer de él? Dios quería que Adán lo obedeciera, pero El le dio la libertad de la elección. Sin una alternativa, Adán habría sido como un prisionero, y su obediencia habría sido hueca. Los dos árboles presentaban un ejercicio de decisión, con recompensas si se elegía obedecer o tristes consecuencias si se decidía desobedecer. Cuando usted se enfrente a la alternativa, siempre elija obedecer a Dios.
+2.18-24 La obra creativa de Dios no estuvo completa hasta que creó a la mujer. Pudo haberla hecho del polvo de la tierra, como hizo al hombre. Sin embargo, decidió hacerla del hueso y de la carne del hombre. Al hacer esto nos ilustró que en el matrimonio el hombre y la mujer llegan a ser simbólicamente una sola carne. Esta es una unión mística de los corazones y las vidas de la pareja. A lo largo de la Biblia, Dios trata seriamente esta unión especial. Si usted está casado o planea casarse ¿está usted dispuesto a guardar su compromiso que hace que los dos sean uno? La meta del matrimonio debiera ser más que una amistad; debiera ser una unidad.
+2.21-23 Dios diseñó y equipó al hombre y a la mujer para realizar diferentes tareas, pero todas estas tareas apuntan a la misma meta: honrar a Dios. El hombre da vida a la mujer; la mujer da vida al mundo. A cada rol le corresponden privilegios exclusivos; no se admite el pensamiento de que un sexo sea superior al otro.
+2.24 Dios dio el matrimonio como un regalo para Adán y Eva. Fueron creados perfectamente para complementarse entre sí. El matrimonio no fue sólo por conveniencia, tampoco lo originó ninguna cultura. Fue instituido por Dios y cuenta con tres aspectos básicos: (1) El hombre &quot;deja&quot; a su padre y a su madre y, en un acto público, se promete a su esposa. (2) El hombre y la mujer se unen al tomar la responsabilidad del bienestar de cada uno y al amar a su pareja sobre todos los demás; (3) ambos llegan a ser &quot;una carne&quot; en la intimidad y en el compromiso de la unión sexual que está reservada sólo para el matrimonio. Los matrimonios sólidos de hoy incluyen estos tres aspectos por completo.
+2.25 ¿Ha notado usted cómo un niño pequeño puede correr desnudo en un cuarto lleno de extraños sin avergonzarse? No está consciente de su desnudez, así como Adán y Eva no se avergonzaban en su inocencia. Pero después de que Adán y Eva pecaron, le siguieron la vergüenza, la pena y la incomodidad; creando barreras entre ellos mismos y Dios. A menudo experimentamos estas mismas barreras en el matrimonio. Sería ideal que los esposos no tuvieran barreras, y no sintieran vergüenza de exponerse el uno al otro o a Dios. Como Adán y Eva (3.7), nos ponemos hojas de higuera (barreras) debido a que hay aspectos nuestros que no queremos que nuestra esposa, o Dios, conozca. Luego nos escondemos, de la misma manera que Adán y Eva se escondieron de Dios. En el matrimonio la falta de intimidad espiritual, emocional e intelectual por lo general precede a una desintegración de la intimidad física. Del mismo modo, cuando no podemos exponer nuestros pecados y pensamientos secretos a Dios, cerramos las líneas de comunicación que tenemos con El.
+LO QUE LA BIBLIA DICE ACERCA DEL MATRIMONIO
+Gen 2:18-24 El matrimonio fue idea de Dios
+Gen 24:58-60 La entrega total es esencial para un buen matrimonio
+Cantar de los Son 4:9-10 El romance es importante
+Jer 33:10-11 El matrimonio ofrece momentos de gran gozo
+Mal 2:14-15 El matrimonio proporciona el mejor ambiente para criar hijos
+Mat 5:32 La infidelidad rompe el lazo de la confianza. La confianza es básica en todas las relaciones
+Mat 19:6 El matrimonio es permanente
+Rom 7:2-3 Lo ideal es que sólo la muerte disuelva el matrimonio
+Eph 5:21-33 El matrimonio está basado en la práctica de los principios del amor, no en los sentimientos
+Eph 5:23, Eph 5:32 El matrimonio es un símbolo vivo de Cristo y la Iglesia
+Heb 13:4 El matrimonio es bueno y honroso</p>
+<br/>
+
+
+
+
+</div>

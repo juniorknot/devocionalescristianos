@@ -1,0 +1,13 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">Job 28</h2>
+<p class="text-justify">Vv. 1-11.Job sostiene que las dispensaciones de la Providencia son reguladas por la sabiduría suprema. Para confirmar esto demuestra la gran cantidad de conocimiento y riqueza de que pueden enseñorearse los hombres. Las cavernas de la tierra pueden ser descubiertas, pero no los consejos del Cielo. Vé a los mineros, tú que eres perezoso en religión, considera sus caminos y sé sabio. Que el coraje y la diligencia de ellos para buscar riqueza perecedera, nos avergüence por nuestra pereza y debilidad de corazón para laborar en pro de las riquezas verdaderas. ¡Cuánto mejor es obtener sabiduría que oro! ¡Cuánto más fácil y seguro! Pero se busca el oro y se desprecia la gracia. La esperanza de cosas preciosas de la tierra, como las llaman los hombres, aunque sin valor y perecederas, ¿serán un acicate tal para la laboriosidad, y no lo será mucho más la perspectiva cierta de cosas verdaderamente preciosas en el cielo?</p>
+<br/>
+<p class="text-justify">Vv. 12-19.Aquí Job habla de sabiduría e inteligencia, de conocer y disfrutar de Dios y de nosotros mismos. Su valor es infinitamente superior a todas las riquezas de este mundo. Es una dádiva del Espíritu Santo que no puede comprarse con dinero. Lo que es más precioso a ojos de Dios, lo sea a los nuestros. Job pide como quien lo desea verdaderamente hallarla, y desespera encontrarla en otra parte que no sea Dios; y de otra forma que no sea revelación divina.</p>
+<br/>
+<p class="text-justify">Vv. 20-28.Hay una sabiduría doble; una oculta en Dios, que es secreta y que no nos pertenece; la otra, que es dada a conocer por Él siendo revelada al hombre. Los sucesos de un día y los asuntos de un hombre, se refieren entre sí dependiendo uno del otro, de modo que solamente Él, ante quien todo está abierto, y ve el todo de una sola vez, puede juzgar rectamente cada parte. Pero el conocimiento de la voluntad revelada de Dios está a nuestro alcance, y nos hace bien. Que el hombre considere esto como sabiduría suya: Temer al Señor y alejarse del mal. Que aprenda eso y habrá aprendido bastante. ¿Dónde encontrar esta sabiduría? Sus tesoros están escondidos en Cristo, revelados por la palabra, recibidos por fe, por medio del Espíritu Santo. No alimenta el orgullo ni la vanidad, ni entretendrá nuestra vana curiosidad. Enseña y llama a los pecadores a que teman al Señor y se alejen del mal, en el ejercicio del arrepentimiento y la fe, sin desear la solución de todas las dificultades acerca de los hechos de la vida.</p>
+<br/>
+
+
+
+
+</div>

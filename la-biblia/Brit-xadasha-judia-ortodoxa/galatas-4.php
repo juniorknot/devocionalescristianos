@@ -1,0 +1,431 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<?php function child_theme_head_script() { ?><meta name="Author">
+ 
+ 
+<meta property="og:site_name" content="devocionales"/>
+ 
+<meta property="og:title" content="Gálatas 4 BXJO - Brit Xadasha Judia Ortodoxa (Nuevo Testamento)"/>
+<meta property="og:description" content="Capítulo También digo: Entretanto que el ioresh es ieled, en nada difiere del eved, aunque es señor de todo;Mas esta debajo de tutores y curadores hasta el tiempo señalado por el padre. - Brit Xadasha Judia Ortodoxa (Nuevo Testamento)"/>
+<meta property="og:image" content="https://www.devocionalescristianos.org/biblia/assets/img/social/social_logo.jpg"/>
+<meta property="og:url" content="<?php echo "https://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; ?>"/>
+ 
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@devocionales
+">
+<meta name="twitter:domain" content="devocionales
+.com">
+<meta name="twitter:title" content="Gálatas 4 BXJO - Brit Xadasha Judia Ortodoxa (Nuevo Testamento)">
+<meta name="twitter:description" content="Capítulo También digo: Entretanto que el ioresh es ieled, en nada difiere del eved, aunque es señor de todo;Mas esta debajo de tutores y curadores hasta el tiempo señalado por el padre. - Brit Xadasha Judia Ortodoxa (Nuevo Testamento)">
+<meta property="twitter:image" content="https://www.devocionalescristianos.org/biblia/assets/img/social/social_logo.jpg">
+<meta content="Capítulo También digo: Entretanto que el ioresh es ieled, en nada difiere del eved, aunque es señor de todo;Mas esta debajo de tutores y curadores hasta el tiempo señalado por el padre. - Brit Xadasha Judia Ortodoxa (Nuevo Testamento)" name="description"/>
+<?php } ?>
+
+<!-- /la-biblia/Brit-xadasha-judia-ortodoxa/galatas-4 , Wed, 28 Dec 2016 16:52:09 GMT -->
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" lang='es'>
+
+<!-- /la-biblia/Brit-xadasha-judia-ortodoxa/galatas-4 , Wed, 28 Dec 2016 16:52:09 GMT -->
+<?php require( $_SERVER['DOCUMENT_ROOT'] . '/wp-load.php' ); get_header(); get_sidebar('home1'); ?><link rel="stylesheet" href="../../style.css">
+<body>
+<div id="main-content" class="container fade-in animated3 sidebar-narrow-left">
+<div class="content-wrap">
+<div class="content"> 
+<div class="off-canvas-wrapper">
+<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+<div id="off-canvas" class="off-canvas position-right" aria-hidden="false" data-off-canvas data-position="right">
+<button class="close-button" aria-label="Close menu" type="button" data-close="off-canvas">
+<span aria-hidden="true">×</span>
+</button>
+ 
+</div>
+<div id="buscar" class="off-canvas position-left" aria-hidden="false" data-off-canvas data-position="left">
+<button class="close-button" aria-label="Close menu" type="button" data-close="buscar">
+<span aria-hidden="true">×</span>
+</button>
+ 
+</div>
+</form></li>
+</ul>
+</div>
+<div class="off-canvas-content" data-off-canvas-content>
+<div class="row">
+ 
+</script>
+</div> <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "book",
+  "about": "Biblia, la Palabra de Dios",  
+  "bookFormat": "EBook",
+  "name": "Gálatas",
+  "author": "Pablo",
+  "datePublished": "50 d.C.",
+  "description": "Capítulo También digo: Entretanto que el ioresh es ieled, en nada difiere del eved, aunque es señor de todo;Mas esta debajo de tutores y curadores hasta el tiempo señalado por el padre. - Brit Xadasha Judia Ortodoxa (Nuevo Testamento)",
+  "url": "../../la-biblia/Brit-xadasha-judia-ortodoxa/galatas-4",
+  "image": "../../assets/img/thumbs/capitulo/galatas-4.jpg",
+  "thumbnailUrl": "../../assets/img/thumbs/capitulo/galatas-4.jpg"
+}
+</script>
+<div class="row">
+<div class="small-12 show-for-small-only columns">
+<div class="row">
+ 
+</div>
+</div>
+<div class="large-12 medium-12 small-12 columns">
+<div class="row">
+<div class="large-5 medium-5 small-12 columns">
+<input id="versionRespaldo" name="versionRespaldo" type="hidden" value="Brit-xadasha-judia-ortodoxa"/>
+<select id="versiones" onchange='cambio_version("../../la-biblia\/","capitulo")' name="versiones" class="drop">
+<option value="Brit-xadasha-judia-ortodoxa">Brit Xadasha Judia Ortodoxa (Nuevo Testamento)</option>
+<option value="Reina-valera-1960">Reina Valera 1960</option>
+<option value="Traduccion-lenguaje-actual">Traducción en Lenguaje Actual</option>
+<option value="Nueva-version-internacional-1984">Nueva Version Internacional</option>
+<option value="nueva-version-internacional-1999">Nueva Versión Internacional 1999</option>
+<option value="Biblia-de-las-americas">Biblia de las Americas</option>
+<option value="Dios-habla-hoy">Dios habla hoy</option>
+<option value="kadosh-israelita-mesianica">Kadosh Israelita Mesiánica</option>
+<option value="Nueva-traduccion-viviente">Nueva Traducción Viviente</option>
+<option value="La-biblia-del-oso-1569">La Biblia del Oso  RV1569</option>
+<option value="reina-valera-antigua-1602">Reina Valera Antigua 1602</option>
+<option value="reina-valera-1858">Reina Valera 1858 (Nuevo Testamento)</option>
+<option value="reina-valera-1862">Reina Valera 1862</option>
+<option value="Reina-valera-1865">Reina Valera 1865</option>
+<option value="Reina-Valera-1909">Reina Valera 1909</option>
+<option value="Reina-valera-1977">Reina Valera 1977</option>
+<option value="Reina-valera-1989">Reina Valera Actualizada 1989</option>
+<option value="reina-valera-1990-adventista">Reina Valera 1990 (Adventista)</option>
+<option value="Reina-valera-1995">Reina Valera 1995</option>
+<option value="Reina-valera-2000">Reina Valera 2000</option>
+<option value="Reina-valera-2004">Reina Valera 2004</option>
+<option value="Reina-valera-Gomez">Reina Valera Gómez (2010)</option>
+<option value="Valera-contemporanea">Reina Valera Contemporanea</option>
+<option value="Biblia-de-Jerusalem-1976">Biblia de Jerusalem 1976</option>
+<option value="Biblia-de-jerusalen-1998">Biblia de Jerusalén 1998</option>
+<option value="biblia-corona-de-jerusalen">Biblia Corona de Jerusalen</option>
+<option value="Biblia-de-jerusalem-3-edicion">Biblia de Jerusalem 3-Edicion</option>
+<option value="Version-universidad-de-jerusalem">Biblia Universidad de Jerusalem</option>
+<option value="Version-Israelita-nazarena-2011">Versión Israelita Nazarena 2011</option>
+<option value="Biblia-al-dia">Biblia al día 1989</option>
+<option value="Castilian-2003">Biblia Castilian 2003</option>
+<option value="Biblia-del-siglo-de-oro">Biblia del Siglo de Oro</option>
+<option value="Latinoamericana-1995">Biblia Latinoamericana (1995)</option>
+<option value="biblia-latinoamericana-de-hoy">La Nueva Biblia Latinoamericana de Hoy</option>
+<option value="Schokel-y-mateos">Nueva Biblia Española (1975)</option>
+<option value="Biblia-de-nuestro-pueblo">Biblia de nuestro Pueblo</option>
+<option value="Nacar-colunga">Nacar-Colunga</option>
+<option value="Version-martin-nieto">Martin Nieto</option>
+<option value="El-libro-del-pueblo-de-Dios">El Libro del Pueblo de Dios</option>
+<option value="Version-septuaginta">Biblia Septuaginta al Español</option>
+<option value="Junemann-septuaginta">Jünemann Septuaginta en español</option>
+<option value="Textual-3a-edicion">La Biblia Textual 3a Edicion</option>
+<option value="Version-moderna-1929">Version Moderna (1929) </option>
+<option value="La-palabra-hispanoamericana">La Palabra (HispanoAmericana)</option>
+<option value="Nueva-biblia-de-los-hispanos-nblh">Nueva Biblia de los Hispanos</option>
+<option value="Palabra-de-Dios-para-todos">Palabra de Dios para Todos</option>
+<option value="Serafin-de-ausejo">Serafín de Ausejo 1975</option>
+<option value="Espanol-sagradas-escrituras">Spanish Sagradas Escrituras</option>
+<option value="Torres-amat">Torres Amat</option>
+<option value="Nuevo-mundo-testigos-de-jehova">Traducción del Nuevo Mundo (Testigos de Jehová)</option>
+<option value="Castellano-Antiguo">Castellano Antiguo (Nuevo Testamento)</option>
+<option value="Lenguaje-sencillo">Lenguaje Sencillo (Nuevo Testamento)</option>
+<option value="La-sagrada-biblia-edicion-eunsa">EUNSA (Nuevo Testamento)</option>
+<option value="Peshita-nuevo-testamento">Peshita (Nuevo Testamento)</option>
+<option value="Nuevo-Testamento-F-arcas-y-a-fernandez">Arcas-Fernandez (Nuevo Testamento)</option>
+<option value="Nuevo-testamento-pablo-besso">Pablo Besso (Nuevo Testamento)</option>
+<option value="La-torah">La Torah </option>
+<option value="Evangelios-scio-de-san-miguel">Scio de San Miguel (Solo los Evangelios)</option>
+<option value="Biblia-de-israel-Genesis">Biblia de Israel (Solo Genesis)</option>
+<option value="Mateo-hebreo-duTillet">DuTillet - Solo Mateo - Hebreo </option>
+</select>
+</div>
+<div class="large-3 medium-3 small-12 columns">
+<select id="libros" onChange='cargarCapsVers(this.value)' name="libros" class="drop">
+<option id="galatas" value="Gálatas">
+Gálatas
+</option>
+<option id="mateo" value="Mateo">
+Mateo
+</option>
+<option id="marcos" value="Marcos">
+Marcos
+</option>
+<option id="lucas" value="Lucas">
+Lucas
+</option>
+<option id="juan" value="Juan">
+Juan
+</option>
+<option id="hechos" value="Hechos">
+Hechos
+</option>
+<option id="romanos" value="Romanos">
+Romanos
+</option>
+<option id="1corintios" value="1 Corintios">
+1 Corintios
+</option>
+<option id="2corintios" value="2 Corintios">
+2 Corintios
+</option>
+<option id="efesios" value="Efesios">
+Efesios
+</option>
+<option id="filipenses" value="Filipenses">
+Filipenses
+</option>
+<option id="colosenses" value="Colosenses">
+Colosenses
+</option>
+<option id="1tesalonicenses" value="1 Tesalonicenses">
+1 Tesalonicenses
+</option>
+<option id="2tesalonicenses" value="2 Tesalonicenses">
+2 Tesalonicenses
+</option>
+<option id="1timoteo" value="1 Timoteo">
+1 Timoteo
+</option>
+<option id="2timoteo" value="2 Timoteo">
+2 Timoteo
+</option>
+<option id="tito" value="Tito">
+Tito
+</option>
+<option id="filemon" value="Filemón">
+Filemón
+</option>
+<option id="hebreos" value="Hebreos">
+Hebreos
+</option>
+<option id="santiago" value="Santiago">
+Santiago
+</option>
+<option id="1pedro" value="1 Pedro">
+1 Pedro
+</option>
+<option id="2pedro" value="2 Pedro">
+2 Pedro
+</option>
+<option id="1juan" value="1 Juan">
+1 Juan
+</option>
+<option id="2juan" value="2 Juan">
+2 Juan
+</option>
+<option id="3juan" value="3 Juan">
+3 Juan
+</option>
+<option id="judas" value="Judas">
+Judas
+</option>
+<option id="apocalipsis" value="Apocalipsis">
+Apocalipsis
+</option>
+</select>
+</div>
+<div class="large-2 medium-2 small-12 columns">
+<select id="num_capitulos" onchange='cambiar_capitulo(this.value,"../../la-biblia\/","capitulo")' name="num_capitulos" class="drop">
+<option>Capítulo 4</option>
+<option id="1" value="1">Capítulo 1</option>
+<option id="2" value="2">Capítulo 2</option>
+<option id="3" value="3">Capítulo 3</option>
+<option id="5" value="5">Capítulo 5</option>
+<option id="6" value="6">Capítulo 6</option>
+</select>
+</div>
+<div class="large-2 medium-2 small-12 columns">
+<a onclick="consulta_cap()" class="button search-white"></a>
+</div>
+</div>
+<div class="row">
+<table class="cuadro" id="caja">
+<tr>
+<td class="table_cap" title="Gálatas 3" onCLick="document.location='galatas-3.php'">
+<div data-sticky-container>
+<div class="sticky" data-sticky data-options="marginTop:15;" data-sticky-on="small" data-anchor="caja">
+<a href="galatas-3.php" title="Gálatas 3"><span class="icon-chevron-left"></span></a>
+</div>
+</div>
+</td>
+<td class="table_cap_content">
+<div class="row">
+<div class="small-12 columns" data-sticky-container>
+<div class="large-12 columns compartir share-box sticky" data-options="marginTop:0;" data-sticky data-anchor="caja" data-sticky-on="small">
+<ul class="menu simple">
+<li title="Compartir Gálatas 4" data-toggle="share-callout"> </li>
+<li title="PDF de Gálatas 4"><a title="PDF de Gálatas 4" target="_blank" href="../../imprimir/Brit-xadasha-judia-ortodoxa/galatas-4.pdf"><span class="icon-file-pdf-o"></span></a></li>
+<li title="Comentario Bíblico de Gálatas 4"><a href="../../comentario-biblico/?v=BXJO&amp;co=matthew-henry&amp;l=galatas&amp;cap=4" target="_blank"><span class="icon-book"></span></a></li>
+<li id="shareButtonPrint" title="Imprimir Gálatas 4"><a target="_blank" onclick='PrintElem("Galatas_4_Brit Xadasha Judia Ortodoxa (Nuevo Testamento)")' class="icon-print"></a></li>
+</ul>
+<ul class="callout small-3 column end is-hidden" id="share-callout" data-toggler="is-hidden">
+ 
+<li class="hide-for-large"><a href="whatsapp://send?text=Gálatas 4 (BXJO)%0A%0A 1. También digo: Entretanto que el ioresh es ieled, en nada difiere del eved, aunque es señor de todo; 2. Mas esta debajo de tutores y curadores hasta el tiempo señalado por el padre. 3. Así también nosotros, cuando éramos ieladim, eramos av´dim bajo los rudimentos del mundo. 4. Mas venido el cumplimiento del tiempo, Elojim envió su ben, hecho de isha, hecho súbdito a la Tora, 5. Para que redimiese los que estaban debajo de la Tora, a fin que recibiésemos la adopcion de hijos. 6. Y por cuanto sois hijos, Elojim envió el Rúax de su ben en vuestros levavot^, el cual clama: Abba, Av: 7. Así que ya no eres mas eved, sino ben; y si ben, también ioresh de Elojim por Mashíax. 8. Antes, en otro tiempo, no teniendo da´at a Elojim, serviais a los que por naturaleza no son dioses: 9. Mas ahora habiendo conocido a Elojim, ó mas bien, siendo conocidos de Elojim, ¿cómo os volveis de nuevo a los flacos y aniyim rudimentos, en los cuales quereis volver a servir, 10. Guardais los iamim, y los meses, y los tiempos, y los años. 11. Temo de vosotros, que no haya trabajado en vano en vosotros. 12. axim, os ruego, sed como yo, porque yo [soy] como vosotros: ningún agravio me habeis hecho. 13. Que vosotros sabeis que por flaqueza de carne os anuncié la Besorat jaGueula al principio: 14. Y no desechasteis ni menospreciasteis mi tentacion que [estaba] en mi carne antes me recibisteis como a un malax Elojim, como a Mashíax Rabinu Melekh jaMashíax. 15. ¿Dónde esta, pues, vuestra bienaventuranza? porque yo os doy edut, que si se pudiera [hacer,] os hubierais sacado vuestros ojos para darmelos. 16. ¿Heme pues hecho vuestro enemigo, diciéndoos la emet? 17. Tienen celos de vosotros, [pero] no bien: antes, os quieren echar fuera para que vosotros los celeis a ellos. 18. tov [es] ser celosos en bien siempre; y no solamente cuando estoy presente con vosotros. 19. ieladim míos, que vuelvo otra vez a estar de parto de vosotros, hasta que Mashíax sea formado en vosotros, 20. Querria cierto estar ahora con vosotros, y mudar mi voz; porque estoy perplejo en cuanto a vosotros. 21. Decidme, los que quereis estar debajo de la Tora, ¿no habeis oido la Tora? 22. Porque escrito esta que Avrajam Avinu tuvo dos hijos; uno de la sierva, el otro de la libre. 23. Mas el de la sierva nació según el basar; pero el de la libre [nació] por la javtaxa. 24. Las cuales cosas son dichas por alegoría: porque estas [mujeres] son los dos pactos; el uno ciertamente del monte Sina, el cual engendró para servidumbre, que es Agar. 25. Porque Agar ó Sina es un monte de Arabia, el cual es conjunto a la que ahora es Ierushalayim, la cual sirve con sus hijos. 26. Mas la Ierushalayim de arriba libre es; la cual es la em de todos nosotros. 27. Porque esta escrito: Alégrate, estéril que no pares; prorrumpe^ en [alabanzas] y clama, la que no estas de parto; porque mas son los hijos de la dejada, que de la que tiene marido. 28. Así que, axim, nosotros, como Yitzxak, somos hijos de la javtaxa. 29. Empero como Entonces el que era engendrado según el basar, perseguia al que [había nacido] según el Rúax, así también ahora. 30. Mas ¿qué dice la escritura? Echa fuera a la sierva y a su ben: Porque no sera ioresh el ben de la sierva con el ben de la libre. 31. De manera, axim, que no somos hijos de la sierva, mas de la libre.... %0A%0Ahttp://bt3.me/bi5c"><span class="icon-whatsapp"></span> WHATSAPP</a></li>
+<li class="hide-for-large"><a href="bbmi://api/share?message=devocionales
+&userCustomMessage=Gálatas 4 (BXJO)%0A%0A
+ También digo: Entretanto que el ioresh es ieled, en nada difiere del eved, aunque es señor de todo; 
+ Mas esta debajo de tutores y curadores hasta... %0A%0Ahttp://bt3.me/bi5c"><span class="icon-group"></span> BLACKBERRY</a></li>
+<li class="hide-for-large"><a href="sms:?&body=Gálatas 4 BXJO - Brit Xadasha Judia Ortodoxa (Nuevo Testamento)%0A%0A 1. También digo: Entretanto que el ioresh es ieled, en nada difiere del eved, aunque es señor de todo; 2. Mas esta debajo de tutores y curadores hasta el tiempo señalado por el padre. 3. Así también nosotros, cuando éramos ieladim, eramos av´dim bajo los rudimentos del mundo. 4. Mas venido el cumplimiento del tiempo, Elojim envió su ben, hecho de isha, hecho súbdito a la Tora, 5. Para que redimiese los que estaban debajo de la Tora, a fin que recibiésemos la adopcion de hijos. 6. Y por cuanto sois hijos, Elojim envió el Rúax de su ben en vuestros levavot^, el cual clama: Abba, Av: 7. Así que ya no eres mas eved, sino ben; y si ben, también ioresh de Elojim por Mashíax. 8. Antes, en otro tiempo, no teniendo da´at a Elojim, serviais a los que por naturaleza no son dioses: 9. Mas ahora habiendo conocido a Elojim, ó mas bien, siendo conocidos de Elojim, ¿cómo os volveis de nuevo a los flacos y aniyim rudimentos, en los cuales quereis volver a servir, 10. Guardais los iamim, y los meses, y los tiempos, y los años. 11. Temo de vosotros, que no haya trabajado en vano en vosotros. 12. axim, os ruego, sed como yo, porque yo [soy] como vosotros: ningún agravio me habeis hecho. 13. Que vosotros sabeis que por flaqueza de carne os anuncié la Besorat jaGueula al principio: 14. Y no desechasteis ni menospreciasteis mi tentacion que [estaba] en mi carne antes me recibisteis como a un malax Elojim, como a Mashíax Rabinu Melekh jaMashíax. 15. ¿Dónde esta, pues, vuestra bienaventuranza? porque yo os doy edut, que si se pudiera [hacer,] os hubierais sacado vuestros ojos para darmelos. 16. ¿Heme pues hecho vuestro enemigo, diciéndoos la emet? 17. Tienen celos de vosotros, [pero] no bien: antes, os quieren echar fuera para que vosotros los celeis a ellos. 18. tov [es] ser celosos en bien siempre; y no solamente cuando estoy presente con vosotros. 19. ieladim míos, que vuelvo otra vez a estar de parto de vosotros, hasta que Mashíax sea formado en vosotros, 20. Querria cierto estar ahora con vosotros, y mudar mi voz; porque estoy perplejo en cuanto a vosotros. 21. Decidme, los que quereis estar debajo de la Tora, ¿no habeis oido la Tora? 22. Porque escrito esta que Avrajam Avinu tuvo dos hijos; uno de la sierva, el otro de la libre. 23. Mas el de la sierva nació según el basar; pero el de la libre [nació] por la javtaxa. 24. Las cuales cosas son dichas por alegoría: porque estas [mujeres] son los dos pactos; el uno ciertamente del monte Sina, el cual engendró para servidumbre, que es Agar. 25. Porque Agar ó Sina es un monte de Arabia, el cual es conjunto a la que ahora es Ierushalayim, la cual sirve con sus hijos. 26. Mas la Ierushalayim de arriba libre es; la cual es la em de todos nosotros. 27. Porque esta escrito: Alégrate, estéril que no pares; prorrumpe^ en [alabanzas] y clama, la que no estas de parto; porque mas son los hijos de la dejada, que de la que tiene marido. 28. Así que, axim, nosotros, como Yitzxak, somos hijos de la javtaxa. 29. Empero como Entonces el que era engendrado según el basar, perseguia al que [había nacido] según el Rúax, así también ahora. 30. Mas ¿qué dice la escritura? Echa fuera a la sierva y a su ben: Porque no sera ioresh el ben de la sierva con el ben de la libre. 31. De manera, axim, que no somos hijos de la sierva, mas de la libre. http://bt3.me/bi5c"><span class="icon-envelope-o"></span> SMS</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="imprimible"><br/><?php echo do_shortcode("[the_ad_placement id='biblia-top']") ?>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<script type="text/javascript" src="https://d389zggrogs7qo.cloudfront.net/js/button.js"></script>
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+
+<?php
+function crunchify_social_sharing_buttons($content) {
+  global $post;
+  global $wp;
+  //if(is_singular() || is_home()){
+  
+    // Get current page URL 
+    $crunchifyURL = ("https://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]");
+ 
+    // Get current page title
+    $crunchifyTitle = str_replace( ' ', '%20', get_the_title());
+    
+    // Get Post Thumbnail for pinterest
+    $crunchifyThumbnail = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'full' );
+ 
+    // Construct sharing URL without using any script
+    $twitterURL = 'https://twitter.com/intent/tweet?text='.$crunchifyTitle.'&amp;url='.$crunchifyURL.'&amp;via=devocionales';
+    $facebookURL = 'https://www.facebook.com/sharer/sharer.php?u='.$crunchifyURL;
+    $googleURL = 'https://plus.google.com/share?url='.$crunchifyURL;
+    $bufferURL = 'https://bufferapp.com/add?url='.$crunchifyURL.'&amp;text='.$crunchifyTitle;
+    $linkedInURL = 'https://www.linkedin.com/shareArticle?mini=true&url='.$crunchifyURL.'&amp;title='.$crunchifyTitle;
+    $whatsappURL = 'whatsapp://send?text='.$crunchifyTitle . ' ' . $crunchifyURL;
+    
+    // Based on popular demand added Pinterest too
+    $pinterestURL = 'https://pinterest.com/pin/create/button/?url='.$crunchifyURL.'&amp;media='.$crunchifyThumbnail[0].'&amp;description='.$crunchifyTitle;
+ 
+    // Add sharing button at the end of page/page content
+     
+    $variable .= '<div class="crunchify-social">';
+    $variable .= '<a class="crunchify-link crunchify-twitter" href="'. $twitterURL .'" target="_blank">Twitter</a>';
+    $variable .= '<a class="crunchify-link crunchify-facebook" href="'.$facebookURL.'" target="_blank">Facebook</a>';
+    $variable .= '<a class="crunchify-link crunchify-whatsapp" href="'.$whatsappURL.'" target="_blank">WhatsApp</a>';
+    $variable .= '<a class="crunchify-link crunchify-googleplus" href="'.$googleURL.'" target="_blank">Google+</a>';
+    $variable .= '</div>';
+    
+    return $variable.$content;
+ /* }else{
+    // if not a post/page then don't include sharing button
+    return $variable.$content;
+  }*/
+};
+
+echo crunchify_social_sharing_buttons('');
+
+?><br/>
+<h2 class="text-center"> Gálatas 4 - Brit Xadasha Judia Ortodoxa (Nuevo Testamento)</h2>
+<p style="style=text-align: justify;"><strong id="numeros">1. </strong>
+También digo: Entretanto que el ioresh es ieled, en nada difiere del eved, aunque es señor de todo; </p>
+<p style="style=text-align: justify;"><strong id="numeros">2. </strong>
+Mas esta debajo de tutores y curadores hasta el tiempo señalado por el padre. </p>
+<p style="style=text-align: justify;"><strong id="numeros">3. </strong>
+Así también nosotros, cuando éramos ieladim, eramos av´dim bajo los rudimentos del mundo. </p>
+<p style="style=text-align: justify;"><strong id="numeros">4. </strong>
+Mas venido el cumplimiento del tiempo, Elojim envió su ben, hecho de isha, hecho súbdito a la Tora, </p>
+<p style="style=text-align: justify;"><strong id="numeros">5. </strong>
+Para que redimiese los que estaban debajo de la Tora, a fin que recibiésemos la adopcion de hijos. </p>
+<p style="style=text-align: justify;"><strong id="numeros">6. </strong>
+Y por cuanto sois hijos, Elojim envió el Rúax de su ben en vuestros levavot^, el cual clama: Abba, Av: </p>
+<p style="style=text-align: justify;"><strong id="numeros">7. </strong>
+Así que ya no eres mas eved, sino ben; y si ben, también ioresh de Elojim por Mashíax. </p>
+<h4><strong>Exhortación contra el volver a la esclavitud</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">8. </strong>
+Antes, en otro tiempo, no teniendo da´at a Elojim, serviais a los que por naturaleza no son dioses: </p>
+<p style="style=text-align: justify;"><strong id="numeros">9. </strong>
+Mas ahora habiendo conocido a Elojim, ó mas bien, siendo conocidos de Elojim, ¿cómo os volveis de nuevo a los flacos y aniyim rudimentos, en los cuales quereis volver a servir, </p>
+<p style="style=text-align: justify;"><strong id="numeros">10. </strong>
+Guardais los iamim, y los meses, y los tiempos, y los años. </p>
+<p style="style=text-align: justify;"><strong id="numeros">11. </strong>
+Temo de vosotros, que no haya trabajado en vano en vosotros. </p>
+<p style="style=text-align: justify;"><strong id="numeros">12. </strong>
+axim, os ruego, sed como yo, porque yo [soy] como vosotros: ningún agravio me habeis hecho. </p>
+<p style="style=text-align: justify;"><strong id="numeros">13. </strong>
+Que vosotros sabeis que por flaqueza de carne os anuncié la Besorat jaGueula al principio: </p>
+<p style="style=text-align: justify;"><strong id="numeros">14. </strong>
+Y no desechasteis ni menospreciasteis mi tentacion que [estaba] en mi carne antes me recibisteis como a un malax Elojim, como a Mashíax Rabinu Melekh jaMashíax. </p>
+<p style="style=text-align: justify;"><strong id="numeros">15. </strong>
+¿Dónde esta, pues, vuestra bienaventuranza? porque yo os doy edut, que si se pudiera [hacer,] os hubierais sacado vuestros ojos para darmelos. </p>
+<p style="style=text-align: justify;"><strong id="numeros">16. </strong>
+¿Heme pues hecho vuestro enemigo, diciéndoos la emet? </p>
+<p style="style=text-align: justify;"><strong id="numeros">17. </strong>
+Tienen celos de vosotros, [pero] no bien: antes, os quieren echar fuera para que vosotros los celeis a ellos. </p>
+<p style="style=text-align: justify;"><strong id="numeros">18. </strong>
+tov [es] ser celosos en bien siempre; y no solamente cuando estoy presente con vosotros. </p>
+<p style="style=text-align: justify;"><strong id="numeros">19. </strong>
+ieladim míos, que vuelvo otra vez a estar de parto de vosotros, hasta que Mashíax sea formado en vosotros, </p>
+<p style="style=text-align: justify;"><strong id="numeros">20. </strong>
+Querria cierto estar ahora con vosotros, y mudar mi voz; porque estoy perplejo en cuanto a vosotros. </p>
+<h4><strong>Alegoría de Sara y Agar</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">21. </strong>
+Decidme, los que quereis estar debajo de la Tora, ¿no habeis oido la Tora? </p>
+<p style="style=text-align: justify;"><strong id="numeros">22. </strong>
+Porque escrito esta que Avrajam Avinu tuvo dos hijos; uno de la sierva, el otro de la libre. </p>
+<p style="style=text-align: justify;"><strong id="numeros">23. </strong>
+Mas el de la sierva nació según el basar; pero el de la libre [nació] por la javtaxa. </p>
+<p style="style=text-align: justify;"><strong id="numeros">24. </strong>
+Las cuales cosas son dichas por alegoría: porque estas [mujeres] son los dos pactos; el uno ciertamente del monte Sina, el cual engendró para servidumbre, que es Agar. </p>
+<p style="style=text-align: justify;"><strong id="numeros">25. </strong>
+Porque Agar ó Sina es un monte de Arabia, el cual es conjunto a la que ahora es Ierushalayim, la cual sirve con sus hijos. </p>
+<p style="style=text-align: justify;"><strong id="numeros">26. </strong>
+Mas la Ierushalayim de arriba libre es; la cual es la em de todos nosotros. </p>
+<p style="style=text-align: justify;"><strong id="numeros">27. </strong>
+Porque esta escrito: Alégrate, estéril que no pares; prorrumpe^ en [alabanzas] y clama, la que no estas de parto; porque mas son los hijos de la dejada, que de la que tiene marido. </p>
+<p style="style=text-align: justify;"><strong id="numeros">28. </strong>
+Así que, axim, nosotros, como Yitzxak, somos hijos de la javtaxa. </p>
+<p style="style=text-align: justify;"><strong id="numeros">29. </strong>
+Empero como Entonces el que era engendrado según el basar, perseguia al que [había nacido] según el Rúax, así también ahora. </p>
+<p style="style=text-align: justify;"><strong id="numeros">30. </strong>
+Mas ¿qué dice la escritura? Echa fuera a la sierva y a su ben: Porque no sera ioresh el ben de la sierva con el ben de la libre. </p>
+<p style="style=text-align: justify;"><strong id="numeros">31. </strong>
+De manera, axim, que no somos hijos de la sierva, mas de la libre. </p>
+</div>
+</td>
+<td class="table_cap" title="Gálatas 5" onCLick="document.location='galatas-5.php'">
+<div data-sticky-container>
+<div class="sticky" data-sticky data-options="marginTop:15;" data-sticky-on="small" data-anchor="cuadro">
+<a href="galatas-5.php" title="Gálatas 5"><span class="icon-chevron-right"></span></a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<?php echo do_shortcode("[the_ad_placement id='biblia-down']") ?><div class="cap_tab_bar large-12 columns">
+<div class="cap_left large-11 medium-1 small-1 columns">
+<a href="galatas-3.php" title="Gálatas 3"><span class="icon-chevron-left"></span></a>
+</div>
+<div class="cap_right large-1 medium-1 small-2 columns">
+<a href="galatas-5.php" title="Gálatas 5"><span class="icon-chevron-right"></span></a>
+</div>
+</div>
+ 
+</div>
+</div>
+</div>
+ 
+</div></div></div><?php get_sidebar(); get_footer(); ?>
+<script type="text/javascript" src="../../assets/js/au.min.js"></script>

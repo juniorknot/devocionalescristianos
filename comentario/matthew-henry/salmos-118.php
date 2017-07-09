@@ -1,0 +1,15 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">Salmos 118</h2>
+<p class="text-justify">Vv. 1-18.El relato de sus tribulaciones que aquí da el salmista es muy aplicable a Cristo: muchos lo odiaron sin causa; sí, el mismo Señor lo castigó duramente, lo laceró, y lo entregó al dolor, para que por su llaga fuésemos nosotros curados.
+A veces Dios es la fortaleza de su pueblo, cuando no es su cántico; ellos tienen apoyo espiritual, aunque les faltan las delicias espirituales. Sea que el creyente remonte su consuelo a la bondad y misericordia eterna de Dios o sea que espere la bendición asegurada para él, hallará causa abundante de gozo y alabanza. Cada respuesta a nuestras oraciones es una prueba de que el Señor está de nuestro lado; y, entonces, no debemos temer lo que nos pueda hacer el hombre; debemos cumplir conscientemente nuestro deber para con todos, y confiar sólo en Él para su aceptación y bendición. Procuremos vivir para declarar las obras de Dios e instar a los demás a servirle y aconfiar en Él. Tales fueron los triunfos del Hijo de David con la certeza de que la voluntad de Jehová será en su mano prosperada.</p>
+<br/>
+<p class="text-justify">Vv. 19-29.Los que vieron el día de Cristo de lejos, vieron motivo para alabar a Dios por la esperanza. La profecía, versículos 22, 23, puede referirse al ascenso de David, pero principalmente al de Cristo.
+1. Su humillación: Él es la piedra que desecharon los edificadores; ellos siguieron edificando sin Él. Esto resultó en la ruina de quienes lo tomaron livianamente. Los que rechazan a Cristo son rechazados por Dios.
+2. Su exaltación: Él es la piedra principal del ángulo. Él es la principal piedra en quien se completa el edificio, Aquel debe tener la preeminencia en todo. El nombre de Cristo es Admirable; y la redención que obró es la más asombrosa de todas las obras maravillosas de Dios. Nos regocijaremos y alegraremos en el día del Señor; no solamente en que se haya instituido ese día, sino en su ocasión, porque Cristo se hizo Cabeza. Los días de reposo deben ser días de regocijo, porque son como los días del cielo para nosotros.
+Que este Salvador sea mi Salvador, mi Rey. Que mi alma prospere y sea sana, en esa paz y justicia que su reino trae. Permíteme la victoria sobre las concupiscencias que batallan contra mi alma; y que la gracia divina someta mi corazón. El día que hizo Jehová trae luz consigo, la verdadera luz. El deber que pide este privilegio es aquí estipulado: los sacrificios que debemos ofrecer a Dios en gratitud por su amor redentor, somos nosotros mismos; no para ser inmolados en el altar, sino como sacrificios vivos para ser atados al altar; sacrificios espirituales de oración y alabanza en que deben comprometerse nuestros corazones. El salmista alaba a Dios y convoca a todos los que le rodean a que den gracias a Dios por la buena nueva de gran gozo que será para todo el pueblo, que hay un Salvador que es Cristo el Señor. En Él se hace seguro y eterno el pacto de gracia.</p>
+<br/>
+
+
+
+
+</div>

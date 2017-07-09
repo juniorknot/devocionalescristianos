@@ -1,0 +1,29 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">Génesis 2</h2>
+<p class="text-justify">Footnotes:
+[1] 2.2 Reposó : El verbo hebreo significa lit. cesar o terminar , y de él proviene el nombre shabat , traducido al castellano por sábado o día de reposo (cf. Ex 20.11; 31.17; cf. Heb 4.4,10). Decir que Dios descansó no quiere decir que dejó de actuar, sino que dio por bien lograda su obra. Véase Jn 5.17-18 n.
+[2] 2.3 Séptimo día : En la Biblia, el número siete representa lo completo y perfecto. Véase Gn 4.18 n.
+[3] 2.4 Se repiten las palabras de Gn 1.1 para indicar que ha concluido la sección relativa a la creación del universo. Estos son los orígenes : en Hebreos toledot. Esta frase aparece diez veces e introduce las distintas secciones en que se divide el libro de Génesis. La palabra toledot encierra la idea de nacimiento o generación , y en esta versión se ha traducido principalmente por descendientes : Gn 5.1; 6.9; 10.1; 11.10,27; 25.12,19 y 36.1,9, y, una vez, por historia : 37.2.
+[4] 2.4-25 El siguiente relato, a diferencia de Gn 1.1--2.4, se refiere de un modo especial a la creación del hombre y de la mujer. Uno y otra son creados por Dios en momentos distintos, pero esta diferencia hace resaltar más aún la igualdad y la complementariedad de los dos sexos. En efecto, según el relato, Dios concedió primero al hombre la compañía de los animales (v. 19). Sin embargo, esta compañía no logró arrancarlo de su soledad (v. 20). Solo la presencia de la mujer, es decir, de un ser igual a él, le abrió la posibilidad del diálogo y del encuentro personal (v. 23).
+[5] 2.4 Jehová : El nombre propio del Dios de Israel. Véanse Gn 4.26 nota z , y Ex 3.14-15 y las notas correspondientes.
+[6] 2.6 Es probable que la palabra traducida aquí por vapor signifique, más concretamente, agua que brota de la tierra o manantial.
+[7] 2.7 El texto hebreo hace un juego de palabras con los vocablos adam , que significa hombre , y adamá , que significa suelo o tierra cultivable (véase el mismo procedimiento en Gn 3.19). Así se destaca la estrecha vinculación que existe entre la humanidad y la tierra.
+[8] 2.7 Formó... vida : La mención de estos actos especiales de Dios pone de relieve lo que distingue al ser humano de los demás seres creados (véase Gn 1.27 nota s ). Cf. Is 45.9-11; Jer 18.1-6; Ro 9.21, donde la soberanía de Dios se expresa igualmente con la imagen del alfarero que modela sus vasijas.
+[9] 2.7 Fue... ser viviente : citado en 1 Co 15.45.
+[10] 2.8 Edén es una palabra hebrea que significa delicia (cf. Is 51.3; Ez 31.8-9). Algunos la relacionan con un término asirio que significa llanura o estepa.
+[11] 2.9 El árbol de vida : es decir, cuyos frutos dan la vida. Cf. Gn 3.22; Ap 2.7; 22.2,14.
+[12] 2.9 El árbol del conocimiento del bien y del mal : Para comprender esta expresión es conveniente tener en cuenta, en primer lugar, la costumbre hebrea de abarcar una totalidad mencionando únicamente dos términos extremos y opuestos (véase Gn 1.1 nota b ). Esta frase se refiere no solo al conocimiento intelectual, sino que también puede incluir las ideas de elección, discernimiento e incluso de dominio. Por tanto, conocer el bien y el mal equivale a decidir por cuenta propia y con absoluta independencia qué es lo bueno y qué es lo malo; es decir, tener plena autonomía en el campo moral. Cf. Gn 3.22.
+[13] 2.10-14 El Tigris y el Éufrates son los dos grandes ríos de la Mesopotamia; los llamados Pisón y Gihón no han podido ser identificados con certeza.
+[14] 2.15 El trabajo no se presenta como un castigo, sino como la actividad que permite al ser humano cumplir con su responsabilidad en el mantenimiento y desarrollo del mundo y en la realización de sí mismo (cf. Gn 1.28). Solo a causa del pecado, el trabajo adquirió las características de un esfuerzo penoso (Gn 3.17-19).
+[15] 2.17 Del árbol... no comerás : Al imponerle este precepto, Dios reconoce al ser humano como responsable de sus actos. Pero, al mismo tiempo, afirma su soberanía sobre él y lo obliga a guardar sus propios límites, reconociendo su condición humana (Ez 28.2; cf. Is 14.13-14).
+[16] 2.17 Cf. Ro 6.23.
+[17] 2.19-20 Para los antiguos semitas, el nombre no era algo meramente exterior, sino una parte constitutiva de la persona o cosa nombradas. Poner o cambiar un nombre era una forma de afirmar la autoridad o el dominio (véanse Ex 3.13 nota m; 2 R 23.34; 2 R 24.17).
+[18] 2.23 En hebreo, las palabras traducidas por hombre y mujer tienen un sonido muy parecido. Este parecido, lo mismo que el relato de la formación de la mujer con una costilla sacada del hombre, quiere destacar la unidad de naturaleza, la íntima afinidad entre ambos sexos y, por tanto, la igualdad esencial de derechos.
+[19] 2.24 Mt 19.5; Mc 10.7-8; 1 Co 6.16; Ef 5.31. Este v. pone de relieve la dignidad y el significado profundo de la unión matrimonial.
+[20] 2.25 La desnudez es aquí la expresión de una vida sencilla, sin sentimiento de culpa y en perfecta armonía consigo mismo y con el prójimo. Después, como consecuencia del pecado, llegó a ser motivo de <a class="__cf_email__" href="../cdn-cgi/l/email-protection.html" data-cfemail="01776473664174646f7b602f">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script> Cf. Ez 16.37; Os 2.3.</p>
+<br/>
+
+
+
+
+</div>

@@ -1,0 +1,447 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html class="no-js" xmlns="http://www.w3.org/1999/xhtml" lang='es'>
+
+<!-- /la-biblia/Nuevo-testamento-pablo-besso/marcos-1 , Wed, 28 Dec 2016 14:09:28 GMT -->
+<?php require( $_SERVER['DOCUMENT_ROOT'] . '/wp-load.php' ); get_header(); get_sidebar('home1'); ?><link rel="stylesheet" href="../../style.css">
+<body>
+<div id="main-content" class="container fade-in animated3 sidebar-narrow-left">
+<div class="content-wrap">
+<div class="content"> 
+<div class="off-canvas-wrapper">
+<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+<div id="off-canvas" class="off-canvas position-right" aria-hidden="false" data-off-canvas data-position="right">
+<button class="close-button" aria-label="Close menu" type="button" data-close="off-canvas">
+<span aria-hidden="true">×</span>
+</button>
+ 
+</div>
+<div id="buscar" class="off-canvas position-left" aria-hidden="false" data-off-canvas data-position="left">
+<button class="close-button" aria-label="Close menu" type="button" data-close="buscar">
+<span aria-hidden="true">×</span>
+</button>
+ 
+</div>
+</form></li>
+</ul>
+</div>
+<div class="off-canvas-content" data-off-canvas-content>
+<div class="row">
+ 
+</script>
+</div> <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "book",
+  "about": "Biblia, la Palabra de Dios",  
+  "bookFormat": "EBook",
+  "name": "Marcos",
+  "author": "Marcos",
+  "datePublished": "60-70 d.C.",
+  "description": "Capítulo Principio del evangelio de Jesucristo, hijo de Dioscomo está escrito en los profetas: He aquí yo envío a mi mensajero delante de tu faz, que aparejará tu camino, delante de ti. - Pablo Besso (Nuevo Testamento)",
+  "url": "../../la-biblia/Nuevo-testamento-pablo-besso/marcos-1",
+  "image": "../../assets/img/thumbs/capitulo/marcos-1.jpg",
+  "thumbnailUrl": "../../assets/img/thumbs/capitulo/marcos-1.jpg"
+}
+</script>
+<div class="row">
+<div class="small-12 show-for-small-only columns">
+<div class="row">
+ 
+</div>
+</div>
+<div class="large-12 medium-12 small-12 columns">
+<div class="row">
+<div class="large-5 medium-5 small-12 columns">
+<input id="versionRespaldo" name="versionRespaldo" type="hidden" value="Nuevo-testamento-pablo-besso"/>
+<select id="versiones" onchange='cambio_version("../../la-biblia\/","capitulo")' name="versiones" class="drop">
+<option value="Nuevo-testamento-pablo-besso">Pablo Besso (Nuevo Testamento)</option>
+<option value="Reina-valera-1960">Reina Valera 1960</option>
+<option value="Traduccion-lenguaje-actual">Traducción en Lenguaje Actual</option>
+<option value="Nueva-version-internacional-1984">Nueva Version Internacional</option>
+<option value="nueva-version-internacional-1999">Nueva Versión Internacional 1999</option>
+<option value="Biblia-de-las-americas">Biblia de las Americas</option>
+<option value="Dios-habla-hoy">Dios habla hoy</option>
+<option value="kadosh-israelita-mesianica">Kadosh Israelita Mesiánica</option>
+<option value="Nueva-traduccion-viviente">Nueva Traducción Viviente</option>
+<option value="La-biblia-del-oso-1569">La Biblia del Oso  RV1569</option>
+<option value="reina-valera-antigua-1602">Reina Valera Antigua 1602</option>
+<option value="reina-valera-1858">Reina Valera 1858 (Nuevo Testamento)</option>
+<option value="reina-valera-1862">Reina Valera 1862</option>
+<option value="Reina-valera-1865">Reina Valera 1865</option>
+<option value="Reina-Valera-1909">Reina Valera 1909</option>
+<option value="Reina-valera-1977">Reina Valera 1977</option>
+<option value="Reina-valera-1989">Reina Valera Actualizada 1989</option>
+<option value="reina-valera-1990-adventista">Reina Valera 1990 (Adventista)</option>
+<option value="Reina-valera-1995">Reina Valera 1995</option>
+<option value="Reina-valera-2000">Reina Valera 2000</option>
+<option value="Reina-valera-2004">Reina Valera 2004</option>
+<option value="Reina-valera-Gomez">Reina Valera Gómez (2010)</option>
+<option value="Valera-contemporanea">Reina Valera Contemporanea</option>
+<option value="Biblia-de-Jerusalem-1976">Biblia de Jerusalem 1976</option>
+<option value="Biblia-de-jerusalen-1998">Biblia de Jerusalén 1998</option>
+<option value="biblia-corona-de-jerusalen">Biblia Corona de Jerusalen</option>
+<option value="Biblia-de-jerusalem-3-edicion">Biblia de Jerusalem 3-Edicion</option>
+<option value="Version-universidad-de-jerusalem">Biblia Universidad de Jerusalem</option>
+<option value="Version-Israelita-nazarena-2011">Versión Israelita Nazarena 2011</option>
+<option value="Biblia-al-dia">Biblia al día 1989</option>
+<option value="Castilian-2003">Biblia Castilian 2003</option>
+<option value="Biblia-del-siglo-de-oro">Biblia del Siglo de Oro</option>
+<option value="Latinoamericana-1995">Biblia Latinoamericana (1995)</option>
+<option value="biblia-latinoamericana-de-hoy">La Nueva Biblia Latinoamericana de Hoy</option>
+<option value="Schokel-y-mateos">Nueva Biblia Española (1975)</option>
+<option value="Biblia-de-nuestro-pueblo">Biblia de nuestro Pueblo</option>
+<option value="Nacar-colunga">Nacar-Colunga</option>
+<option value="Version-martin-nieto">Martin Nieto</option>
+<option value="El-libro-del-pueblo-de-Dios">El Libro del Pueblo de Dios</option>
+<option value="Version-septuaginta">Biblia Septuaginta al Español</option>
+<option value="Junemann-septuaginta">Jünemann Septuaginta en español</option>
+<option value="Textual-3a-edicion">La Biblia Textual 3a Edicion</option>
+<option value="Version-moderna-1929">Version Moderna (1929) </option>
+<option value="La-palabra-hispanoamericana">La Palabra (HispanoAmericana)</option>
+<option value="Nueva-biblia-de-los-hispanos-nblh">Nueva Biblia de los Hispanos</option>
+<option value="Palabra-de-Dios-para-todos">Palabra de Dios para Todos</option>
+<option value="Serafin-de-ausejo">Serafín de Ausejo 1975</option>
+<option value="Espanol-sagradas-escrituras">Spanish Sagradas Escrituras</option>
+<option value="Torres-amat">Torres Amat</option>
+<option value="Nuevo-mundo-testigos-de-jehova">Traducción del Nuevo Mundo (Testigos de Jehová)</option>
+<option value="Brit-xadasha-judia-ortodoxa">Brit Xadasha Judia Ortodoxa (Nuevo Testamento)</option>
+<option value="Castellano-Antiguo">Castellano Antiguo (Nuevo Testamento)</option>
+<option value="Lenguaje-sencillo">Lenguaje Sencillo (Nuevo Testamento)</option>
+<option value="La-sagrada-biblia-edicion-eunsa">EUNSA (Nuevo Testamento)</option>
+<option value="Peshita-nuevo-testamento">Peshita (Nuevo Testamento)</option>
+<option value="Nuevo-Testamento-F-arcas-y-a-fernandez">Arcas-Fernandez (Nuevo Testamento)</option>
+<option value="La-torah">La Torah </option>
+<option value="Evangelios-scio-de-san-miguel">Scio de San Miguel (Solo los Evangelios)</option>
+<option value="Biblia-de-israel-Genesis">Biblia de Israel (Solo Genesis)</option>
+<option value="Mateo-hebreo-duTillet">DuTillet - Solo Mateo - Hebreo </option>
+</select>
+</div>
+<div class="large-3 medium-3 small-12 columns">
+<select id="libros" onChange='cargarCapsVers(this.value)' name="libros" class="drop">
+<option id="marcos" value="Marcos">
+Marcos
+</option>
+<option id="mateo" value="Mateo">
+Mateo
+</option>
+<option id="lucas" value="Lucas">
+Lucas
+</option>
+<option id="juan" value="Juan">
+Juan
+</option>
+<option id="hechos" value="Hechos">
+Hechos
+</option>
+<option id="romanos" value="Romanos">
+Romanos
+</option>
+<option id="1corintios" value="1 Corintios">
+1 Corintios
+</option>
+<option id="2corintios" value="2 Corintios">
+2 Corintios
+</option>
+<option id="galatas" value="Gálatas">
+Gálatas
+</option>
+<option id="efesios" value="Efesios">
+Efesios
+</option>
+<option id="filipenses" value="Filipenses">
+Filipenses
+</option>
+<option id="colosenses" value="Colosenses">
+Colosenses
+</option>
+<option id="1tesalonicenses" value="1 Tesalonicenses">
+1 Tesalonicenses
+</option>
+<option id="2tesalonicenses" value="2 Tesalonicenses">
+2 Tesalonicenses
+</option>
+<option id="1timoteo" value="1 Timoteo">
+1 Timoteo
+</option>
+<option id="2timoteo" value="2 Timoteo">
+2 Timoteo
+</option>
+<option id="tito" value="Tito">
+Tito
+</option>
+<option id="filemon" value="Filemón">
+Filemón
+</option>
+<option id="hebreos" value="Hebreos">
+Hebreos
+</option>
+<option id="santiago" value="Santiago">
+Santiago
+</option>
+<option id="1pedro" value="1 Pedro">
+1 Pedro
+</option>
+<option id="2pedro" value="2 Pedro">
+2 Pedro
+</option>
+<option id="1juan" value="1 Juan">
+1 Juan
+</option>
+<option id="2juan" value="2 Juan">
+2 Juan
+</option>
+<option id="3juan" value="3 Juan">
+3 Juan
+</option>
+<option id="judas" value="Judas">
+Judas
+</option>
+<option id="apocalipsis" value="Apocalipsis">
+Apocalipsis
+</option>
+</select>
+</div>
+<div class="large-2 medium-2 small-12 columns">
+<select id="num_capitulos" onchange='cambiar_capitulo(this.value,"../../la-biblia\/","capitulo")' name="num_capitulos" class="drop">
+<option>Capítulo 1</option>
+<option id="2" value="2">Capítulo 2</option>
+<option id="3" value="3">Capítulo 3</option>
+<option id="4" value="4">Capítulo 4</option>
+<option id="5" value="5">Capítulo 5</option>
+<option id="6" value="6">Capítulo 6</option>
+<option id="7" value="7">Capítulo 7</option>
+<option id="8" value="8">Capítulo 8</option>
+<option id="9" value="9">Capítulo 9</option>
+<option id="10" value="10">Capítulo 10</option>
+<option id="11" value="11">Capítulo 11</option>
+<option id="12" value="12">Capítulo 12</option>
+<option id="13" value="13">Capítulo 13</option>
+<option id="14" value="14">Capítulo 14</option>
+<option id="15" value="15">Capítulo 15</option>
+<option id="16" value="16">Capítulo 16</option>
+</select>
+</div>
+<div class="large-2 medium-2 small-12 columns">
+<a onclick="consulta_cap()" class="button search-white"></a>
+</div>
+</div>
+<div class="row">
+<table class="cuadro" id="caja">
+<tr>
+<td class="table_cap" title="Marcos 16" onCLick="document.location='marcos-16.php'">
+<div data-sticky-container>
+<div class="sticky" data-sticky data-options="marginTop:15;" data-sticky-on="small" data-anchor="caja">
+<a href="marcos-16.php" title="Marcos 16"><span class="icon-chevron-left"></span></a>
+</div>
+</div>
+</td>
+<td class="table_cap_content">
+<div class="row">
+<div class="small-12 columns" data-sticky-container>
+<div class="large-12 columns compartir share-box sticky" data-options="marginTop:0;" data-sticky data-anchor="caja" data-sticky-on="small">
+<ul class="menu simple">
+<li title="Compartir Marcos 1" data-toggle="share-callout"> </li>
+<li title="PDF de Marcos 1"><a title="PDF de Marcos 1" target="_blank" href="../../imprimir/Nuevo-testamento-pablo-besso/marcos-1.pdf"><span class="icon-file-pdf-o"></span></a></li>
+<li title="Comentario Bíblico de Marcos 1"><a href="../../comentario-biblico/?v=PB&amp;co=matthew-henry&amp;l=marcos&amp;cap=1" target="_blank"><span class="icon-book"></span></a></li>
+<li id="shareButtonPrint" title="Imprimir Marcos 1"><a target="_blank" onclick='PrintElem("Marcos_1_Pablo Besso (Nuevo Testamento)")' class="icon-print"></a></li>
+</ul>
+<ul class="callout small-3 column end is-hidden" id="share-callout" data-toggler="is-hidden">
+ 
+<li class="hide-for-large"><a href="whatsapp://send?text=Marcos 1 (PB)%0A%0A 1. Principio del evangelio de Jesucristo, hijo de Dios 2. como está escrito en los profetas: He aquí yo envío a mi mensajero delante de tu faz, que aparejará tu camino, delante de ti. 3. Voz de uno que clama en el desierto: Preparad el camino del Señor; enderezad sus sendas. 4. Vino Juan bautizando en el desierto, y predicando bautismo de conversión para remisión de pecados. 5. Y salían a él toda la Judea, y los jerosolimitanos, y eran todos bautizados por él en el río Jordán, confesando sus pecados. 6. Estaba Juan vestido de pelos de camello, con ceñidor eje enero alrededor de sus lomos, y comía langostas y miel silvestre. 7. Y predicaba, diciendo: Viene tras mí el que es más poderoso que yo, de quien no soy digno, doblándome, de desatar la correa de sus sandalias. 8. Yo os bauticé en agua, mas él os bautizará en espíritu santo. 9. Y en aquellos días vino Jesús desde Nazaret, de Galilea, y fué bautizado por Juan en el Jordán, 10. y luego subiendo del agua, vio rasgarse los cielos, y al Espíritu, como paloma, descendiendo sobre él. 11. y una voz vino de los cielos: Tú eres mi hijo, el amado, en ti me complací. 12. Y luego el Espíritu lo impele al desierto, 13. y estaba en el desierto cuarenta días, tentado por el Satanás, y estaba con las fieras, y los ángeles le servían. 14. Después que Juan fué entregado, vino Jesús a la Galilea, predicando el mensaje del reino de Dios, 15. y diciendo: Cumplido está el tiempo; y se ha acercado el reino de Dios; convertios y creed en el evangelio. 16. Caminando a lo largo del mar de la Galilea, vio a Simón y a Andrés el hermano de Simón, que echaban una nasa en el mar, porque eran pescadores. 17. Y les dijo Jesús: Venid en pos de mí y haré que seáis pescadores de hombres. 18. Y luego dejando las redes, le siguieron. 19. Y adelantándose un poco, vio a Jacobo, el de Zebedeo y a Juan su hermano, quienes estaban en la barca remendando las redes. 20. Y enseguida los llamó, y dejando a su padre Zebedeo en el barco, con los jornaleros, fueron en pos de él. 21. Y se encaminan a Capernaum; y luego, el sábado, entrando en la sinagoga, Jesús enseñaba. 22. Y quedaban impresionados por su enseñanza, porque estaba enseñándolos, como teniendo autoridad y no como los escribas. 23. Y había en la sinagoga de ellos un hombre con espíritu inmundo, que gritó, 24. diciendo: ¿Qué tenemos que ver contigo Jesús nazareno? ¿Viniste a destruirnos? Sé quién eres tú: el santo de Dios. 25. Y le increpó Jesús, diciendo: Calla y sal de él. 26. Y convulsionándole, y clamando a gran voz. el espíritu inmundo salió de él. 27. Y fueron todos asombrados de suerte que discutían entre sí, diciendo: ¿Qué es esto? ¿Qué nueva enseñanza es ésta?, porque con autoridad también a los espíritus inmundos manda, y ellos le obedecen. 28. Y salió pues la fama de él en seguida en toda la comarca de Galilea. 29. Y luego, saliendo de la sinagoga, vinieron en casa de Simón y Andrés con Jacobo y Juan. 30. La suegra de Simón estaba en cama con fiebre, y en seguida le hablan de ella. 31. Y acercándose él la levantó, tomándola de la mano, y luego la dejó la fiebre, y les servía. 32. A la caída de la tarde, cuando se puso el sol, traían a él todos los que estaban mal y los endemoniados, 33. y toda la ciudad estaba aglomerada a la puerta. 34. Y curó a muchos que estaban mal de varias enfermedades, y echó fuera muchos demonios, y no dejaba hablar a los demonios, porque le conocieron. 35. Y a la mañana, siendo aún muy obscuro, levantándose, salió, y se fué a un lugar desierto, y allí oraba. 36. Y fueron en busca de él Simón y los que estaban con él, 37. y hallándole, dicenle: Todos te buscan. 38. Y díceles: Vamos a los pueblos vecinos para que también allí predique, porque para esto he salido. 39. Y estaba predicando en las sinagogas de ellos, por toda la Galilea y echando fuera a los demonios. 40. Y viene a él un leproso, rogándole; y arrodillándose, le dijo: Si quisieres podrías limpiarme. 41. Jesús, conmovido, extendiendo la mano, le tocó y le dice: Lo quiero, sé limpiado. 42. Y al decirlo al instante se fué de él la lepra, y fué limpiado, 43. Y hablando severamente, luego le despidió 44. y le dijo: Mira, a nadie lo digas, mas ve, muéstrate al sacerdote, y ofrece por tu purificación lo que prescribió Moisés (Lev. 13:49) en testimonio a ellos. 45. Mas él saliendo empezó a publicar mucho y a divulgar la cosa de suerte que ya no podía entrar públicamente en ciudad, mas estaba fuera, en lugares despoblados, y venían a él de todas partes.... %0A%0Ahttp://bt3.me/zvO"><span class="icon-whatsapp"></span> WHATSAPP</a></li>
+<li class="hide-for-large"><a href="bbmi://api/share?message=devocionales
+&userCustomMessage=Marcos 1 (PB)%0A%0A
+ Principio del evangelio de Jesucristo, hijo de Dios 
+ como está escrito en los profetas: He aquí yo envío a mi mensajero delante de tu faz, que a... %0A%0Ahttp://bt3.me/zvO"><span class="icon-group"></span> BLACKBERRY</a></li>
+<li class="hide-for-large"><a href="sms:?&body=Marcos 1 PB - Pablo Besso (Nuevo Testamento)%0A%0A 1. Principio del evangelio de Jesucristo, hijo de Dios 2. como está escrito en los profetas: He aquí yo envío a mi mensajero delante de tu faz, que aparejará tu camino, delante de ti. 3. Voz de uno que clama en el desierto: Preparad el camino del Señor; enderezad sus sendas. 4. Vino Juan bautizando en el desierto, y predicando bautismo de conversión para remisión de pecados. 5. Y salían a él toda la Judea, y los jerosolimitanos, y eran todos bautizados por él en el río Jordán, confesando sus pecados. 6. Estaba Juan vestido de pelos de camello, con ceñidor eje enero alrededor de sus lomos, y comía langostas y miel silvestre. 7. Y predicaba, diciendo: Viene tras mí el que es más poderoso que yo, de quien no soy digno, doblándome, de desatar la correa de sus sandalias. 8. Yo os bauticé en agua, mas él os bautizará en espíritu santo. 9. Y en aquellos días vino Jesús desde Nazaret, de Galilea, y fué bautizado por Juan en el Jordán, 10. y luego subiendo del agua, vio rasgarse los cielos, y al Espíritu, como paloma, descendiendo sobre él. 11. y una voz vino de los cielos: Tú eres mi hijo, el amado, en ti me complací. 12. Y luego el Espíritu lo impele al desierto, 13. y estaba en el desierto cuarenta días, tentado por el Satanás, y estaba con las fieras, y los ángeles le servían. 14. Después que Juan fué entregado, vino Jesús a la Galilea, predicando el mensaje del reino de Dios, 15. y diciendo: Cumplido está el tiempo; y se ha acercado el reino de Dios; convertios y creed en el evangelio. 16. Caminando a lo largo del mar de la Galilea, vio a Simón y a Andrés el hermano de Simón, que echaban una nasa en el mar, porque eran pescadores. 17. Y les dijo Jesús: Venid en pos de mí y haré que seáis pescadores de hombres. 18. Y luego dejando las redes, le siguieron. 19. Y adelantándose un poco, vio a Jacobo, el de Zebedeo y a Juan su hermano, quienes estaban en la barca remendando las redes. 20. Y enseguida los llamó, y dejando a su padre Zebedeo en el barco, con los jornaleros, fueron en pos de él. 21. Y se encaminan a Capernaum; y luego, el sábado, entrando en la sinagoga, Jesús enseñaba. 22. Y quedaban impresionados por su enseñanza, porque estaba enseñándolos, como teniendo autoridad y no como los escribas. 23. Y había en la sinagoga de ellos un hombre con espíritu inmundo, que gritó, 24. diciendo: ¿Qué tenemos que ver contigo Jesús nazareno? ¿Viniste a destruirnos? Sé quién eres tú: el santo de Dios. 25. Y le increpó Jesús, diciendo: Calla y sal de él. 26. Y convulsionándole, y clamando a gran voz. el espíritu inmundo salió de él. 27. Y fueron todos asombrados de suerte que discutían entre sí, diciendo: ¿Qué es esto? ¿Qué nueva enseñanza es ésta?, porque con autoridad también a los espíritus inmundos manda, y ellos le obedecen. 28. Y salió pues la fama de él en seguida en toda la comarca de Galilea. 29. Y luego, saliendo de la sinagoga, vinieron en casa de Simón y Andrés con Jacobo y Juan. 30. La suegra de Simón estaba en cama con fiebre, y en seguida le hablan de ella. 31. Y acercándose él la levantó, tomándola de la mano, y luego la dejó la fiebre, y les servía. 32. A la caída de la tarde, cuando se puso el sol, traían a él todos los que estaban mal y los endemoniados, 33. y toda la ciudad estaba aglomerada a la puerta. 34. Y curó a muchos que estaban mal de varias enfermedades, y echó fuera muchos demonios, y no dejaba hablar a los demonios, porque le conocieron. 35. Y a la mañana, siendo aún muy obscuro, levantándose, salió, y se fué a un lugar desierto, y allí oraba. 36. Y fueron en busca de él Simón y los que estaban con él, 37. y hallándole, dicenle: Todos te buscan. 38. Y díceles: Vamos a los pueblos vecinos para que también allí predique, porque para esto he salido. 39. Y estaba predicando en las sinagogas de ellos, por toda la Galilea y echando fuera a los demonios. 40. Y viene a él un leproso, rogándole; y arrodillándose, le dijo: Si quisieres podrías limpiarme. 41. Jesús, conmovido, extendiendo la mano, le tocó y le dice: Lo quiero, sé limpiado. 42. Y al decirlo al instante se fué de él la lepra, y fué limpiado, 43. Y hablando severamente, luego le despidió 44. y le dijo: Mira, a nadie lo digas, mas ve, muéstrate al sacerdote, y ofrece por tu purificación lo que prescribió Moisés (Lev. 13:49) en testimonio a ellos. 45. Mas él saliendo empezó a publicar mucho y a divulgar la cosa de suerte que ya no podía entrar públicamente en ciudad, mas estaba fuera, en lugares despoblados, y venían a él de todas partes. http://bt3.me/zvO"><span class="icon-envelope-o"></span> SMS</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="imprimible"><br/><?php echo do_shortcode("[the_ad_placement id='biblia-top']") ?>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<script type="text/javascript" src="https://d389zggrogs7qo.cloudfront.net/js/button.js"></script>
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+
+<?php
+function crunchify_social_sharing_buttons($content) {
+  global $post;
+  global $wp;
+  //if(is_singular() || is_home()){
+  
+    // Get current page URL 
+    $crunchifyURL = ("https://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]");
+ 
+    // Get current page title
+    $crunchifyTitle = str_replace( ' ', '%20', get_the_title());
+    
+    // Get Post Thumbnail for pinterest
+    $crunchifyThumbnail = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'full' );
+ 
+    // Construct sharing URL without using any script
+    $twitterURL = 'https://twitter.com/intent/tweet?text='.$crunchifyTitle.'&amp;url='.$crunchifyURL.'&amp;via=devocionales';
+    $facebookURL = 'https://www.facebook.com/sharer/sharer.php?u='.$crunchifyURL;
+    $googleURL = 'https://plus.google.com/share?url='.$crunchifyURL;
+    $bufferURL = 'https://bufferapp.com/add?url='.$crunchifyURL.'&amp;text='.$crunchifyTitle;
+    $linkedInURL = 'https://www.linkedin.com/shareArticle?mini=true&url='.$crunchifyURL.'&amp;title='.$crunchifyTitle;
+    $whatsappURL = 'whatsapp://send?text='.$crunchifyTitle . ' ' . $crunchifyURL;
+    
+    // Based on popular demand added Pinterest too
+    $pinterestURL = 'https://pinterest.com/pin/create/button/?url='.$crunchifyURL.'&amp;media='.$crunchifyThumbnail[0].'&amp;description='.$crunchifyTitle;
+ 
+    // Add sharing button at the end of page/page content
+     
+    $variable .= '<div class="crunchify-social">';
+    $variable .= '<a class="crunchify-link crunchify-twitter" href="'. $twitterURL .'" target="_blank">Twitter</a>';
+    $variable .= '<a class="crunchify-link crunchify-facebook" href="'.$facebookURL.'" target="_blank">Facebook</a>';
+    $variable .= '<a class="crunchify-link crunchify-whatsapp" href="'.$whatsappURL.'" target="_blank">WhatsApp</a>';
+    $variable .= '<a class="crunchify-link crunchify-googleplus" href="'.$googleURL.'" target="_blank">Google+</a>';
+    $variable .= '</div>';
+    
+    return $variable.$content;
+ /* }else{
+    // if not a post/page then don't include sharing button
+    return $variable.$content;
+  }*/
+};
+
+echo crunchify_social_sharing_buttons('');
+
+?><br/>
+<h2 class="text-center"> Marcos 1 - Pablo Besso (Nuevo Testamento)</h2>
+<h4><strong>Predicación de Juan el Bautista</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">1. </strong>
+Principio del evangelio de Jesucristo, hijo de Dios </p>
+<p style="style=text-align: justify;"><strong id="numeros">2. </strong>
+como está escrito en los profetas: He aquí yo envío a mi mensajero delante de tu faz, que aparejará tu camino, delante de ti. </p>
+<p style="style=text-align: justify;"><strong id="numeros">3. </strong>
+Voz de uno que clama en el desierto: Preparad el camino del Señor; enderezad sus sendas. </p>
+<p style="style=text-align: justify;"><strong id="numeros">4. </strong>
+Vino Juan bautizando en el desierto, y predicando bautismo de conversión para remisión de pecados. </p>
+<p style="style=text-align: justify;"><strong id="numeros">5. </strong>
+Y salían a él toda la Judea, y los jerosolimitanos, y eran todos bautizados por él en el río Jordán, confesando sus pecados. </p>
+<p style="style=text-align: justify;"><strong id="numeros">6. </strong>
+Estaba Juan vestido de pelos de camello, con ceñidor eje enero alrededor de sus lomos, y comía langostas y miel silvestre. </p>
+<p style="style=text-align: justify;"><strong id="numeros">7. </strong>
+Y predicaba, diciendo: Viene tras mí el que es más poderoso que yo, de quien no soy digno, doblándome, de desatar la correa de sus sandalias. </p>
+<p style="style=text-align: justify;"><strong id="numeros">8. </strong>
+Yo os bauticé en agua, mas él os bautizará en espíritu santo. </p>
+<h4><strong>El bautismo de Jesús</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">9. </strong>
+Y en aquellos días vino Jesús desde Nazaret, de Galilea, y fué bautizado por Juan en el Jordán, </p>
+<p style="style=text-align: justify;"><strong id="numeros">10. </strong>
+y luego subiendo del agua, vio rasgarse los cielos, y al Espíritu, como paloma, descendiendo sobre él. </p>
+<p style="style=text-align: justify;"><strong id="numeros">11. </strong>
+y una voz vino de los cielos: Tú eres mi hijo, el amado, en ti me complací. </p>
+<h4><strong>Tentación de Jesús</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">12. </strong>
+Y luego el Espíritu lo impele al desierto, </p>
+<p style="style=text-align: justify;"><strong id="numeros">13. </strong>
+y estaba en el desierto cuarenta días, tentado por el Satanás, y estaba con las fieras, y los ángeles le servían. </p>
+<h4><strong>Jesús principia su ministerio</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">14. </strong>
+Después que Juan fué entregado, vino Jesús a la Galilea, predicando el mensaje del reino de Dios, </p>
+<p style="style=text-align: justify;"><strong id="numeros">15. </strong>
+y diciendo: Cumplido está el tiempo; y se ha acercado el reino de Dios; convertios y creed en el evangelio. </p>
+<h4><strong>Jesús llama a cuatro pescadores</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">16. </strong>
+Caminando a lo largo del mar de la Galilea, vio a Simón y a Andrés el hermano de Simón, que echaban una nasa en el mar, porque eran pescadores. </p>
+<p style="style=text-align: justify;"><strong id="numeros">17. </strong>
+Y les dijo Jesús: Venid en pos de mí y haré que seáis pescadores de hombres. </p>
+<p style="style=text-align: justify;"><strong id="numeros">18. </strong>
+Y luego dejando las redes, le siguieron. </p>
+<p style="style=text-align: justify;"><strong id="numeros">19. </strong>
+Y adelantándose un poco, vio a Jacobo, el de Zebedeo y a Juan su hermano, quienes estaban en la barca remendando las redes. </p>
+<p style="style=text-align: justify;"><strong id="numeros">20. </strong>
+Y enseguida los llamó, y dejando a su padre Zebedeo en el barco, con los jornaleros, fueron en pos de él. </p>
+<h4><strong>Un hombre que tenía un espíritu inmundo</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">21. </strong>
+Y se encaminan a Capernaum; y luego, el sábado, entrando en la sinagoga, Jesús enseñaba. </p>
+<p style="style=text-align: justify;"><strong id="numeros">22. </strong>
+Y quedaban impresionados por su enseñanza, porque estaba enseñándolos, como teniendo autoridad y no como los escribas. </p>
+<p style="style=text-align: justify;"><strong id="numeros">23. </strong>
+Y había en la sinagoga de ellos un hombre con espíritu inmundo, que gritó, </p>
+<p style="style=text-align: justify;"><strong id="numeros">24. </strong>
+diciendo: ¿Qué tenemos que ver contigo Jesús nazareno? ¿Viniste a destruirnos? Sé quién eres tú: el santo de Dios. </p>
+<p style="style=text-align: justify;"><strong id="numeros">25. </strong>
+Y le increpó Jesús, diciendo: Calla y sal de él. </p>
+<p style="style=text-align: justify;"><strong id="numeros">26. </strong>
+Y convulsionándole, y clamando a gran voz. el espíritu inmundo salió de él. </p>
+<p style="style=text-align: justify;"><strong id="numeros">27. </strong>
+Y fueron todos asombrados de suerte que discutían entre sí, diciendo: ¿Qué es esto? ¿Qué nueva enseñanza es ésta?, porque con autoridad también a los espíritus inmundos manda, y ellos le obedecen. </p>
+<p style="style=text-align: justify;"><strong id="numeros">28. </strong>
+Y salió pues la fama de él en seguida en toda la comarca de Galilea. </p>
+<h4><strong>Jesús sana a la suegra de Pedro</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">29. </strong>
+Y luego, saliendo de la sinagoga, vinieron en casa de Simón y Andrés con Jacobo y Juan. </p>
+<p style="style=text-align: justify;"><strong id="numeros">30. </strong>
+La suegra de Simón estaba en cama con fiebre, y en seguida le hablan de ella. </p>
+<p style="style=text-align: justify;"><strong id="numeros">31. </strong>
+Y acercándose él la levantó, tomándola de la mano, y luego la dejó la fiebre, y les servía. </p>
+<h4><strong>Muchos sanados al ponerse el sol</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">32. </strong>
+A la caída de la tarde, cuando se puso el sol, traían a él todos los que estaban mal y los endemoniados, </p>
+<p style="style=text-align: justify;"><strong id="numeros">33. </strong>
+y toda la ciudad estaba aglomerada a la puerta. </p>
+<p style="style=text-align: justify;"><strong id="numeros">34. </strong>
+Y curó a muchos que estaban mal de varias enfermedades, y echó fuera muchos demonios, y no dejaba hablar a los demonios, porque le conocieron. </p>
+<h4><strong>Jesús recorre Galilea predicando</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">35. </strong>
+Y a la mañana, siendo aún muy obscuro, levantándose, salió, y se fué a un lugar desierto, y allí oraba. </p>
+<p style="style=text-align: justify;"><strong id="numeros">36. </strong>
+Y fueron en busca de él Simón y los que estaban con él, </p>
+<p style="style=text-align: justify;"><strong id="numeros">37. </strong>
+y hallándole, dicenle: Todos te buscan. </p>
+<p style="style=text-align: justify;"><strong id="numeros">38. </strong>
+Y díceles: Vamos a los pueblos vecinos para que también allí predique, porque para esto he salido. </p>
+<p style="style=text-align: justify;"><strong id="numeros">39. </strong>
+Y estaba predicando en las sinagogas de ellos, por toda la Galilea y echando fuera a los demonios. </p>
+<h4><strong>Jesús sana a un leproso</strong></h4> <p style="style=text-align: justify;"><strong id="numeros">40. </strong>
+Y viene a él un leproso, rogándole; y arrodillándose, le dijo: Si quisieres podrías limpiarme. </p>
+<p style="style=text-align: justify;"><strong id="numeros">41. </strong>
+Jesús, conmovido, extendiendo la mano, le tocó y le dice: Lo quiero, sé limpiado. </p>
+<p style="style=text-align: justify;"><strong id="numeros">42. </strong>
+Y al decirlo al instante se fué de él la lepra, y fué limpiado, </p>
+<p style="style=text-align: justify;"><strong id="numeros">43. </strong>
+Y hablando severamente, luego le despidió </p>
+<p style="style=text-align: justify;"><strong id="numeros">44. </strong>
+y le dijo: Mira, a nadie lo digas, mas ve, muéstrate al sacerdote, y ofrece por tu purificación lo que prescribió Moisés (Lev. 13:49) en testimonio a ellos. </p>
+<p style="style=text-align: justify;"><strong id="numeros">45. </strong>
+Mas él saliendo empezó a publicar mucho y a divulgar la cosa de suerte que ya no podía entrar públicamente en ciudad, mas estaba fuera, en lugares despoblados, y venían a él de todas partes. </p>
+</div>
+</td>
+<td class="table_cap" title="Marcos 2" onCLick="document.location='marcos-2.php'">
+<div data-sticky-container>
+<div class="sticky" data-sticky data-options="marginTop:15;" data-sticky-on="small" data-anchor="cuadro">
+<a href="marcos-2.php" title="Marcos 2"><span class="icon-chevron-right"></span></a>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<?php echo do_shortcode("[the_ad_placement id='biblia-down']") ?><div class="cap_tab_bar large-12 columns">
+<div class="cap_left large-11 medium-1 small-1 columns">
+<a href="marcos-16.php" title="Marcos 16"><span class="icon-chevron-left"></span></a>
+</div>
+<div class="cap_right large-1 medium-1 small-2 columns">
+<a href="marcos-2.php" title="Marcos 2"><span class="icon-chevron-right"></span></a>
+</div>
+</div>
+ 
+</div>
+</div>
+</div>
+ 
+</div></div></div><?php get_sidebar(); get_footer(); ?>
+<script type="text/javascript" src="../../assets/js/au.min.js"></script>

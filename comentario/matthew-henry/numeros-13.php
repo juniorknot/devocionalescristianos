@@ -1,0 +1,15 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">Números 13</h2>
+<p class="text-justify">Vv. 1-20.En este capítulo y el siguiente se relata la historia memorable y triste del regreso de Israel de las fronteras de Canaán, y de la sentencia pronunciada contra ellos de peregrinar y perecer en el desierto a causa de su incredulidad y sus murmuraciones. Parece, Deuteronomio i, 22, que la idea de explorar la tierra provino del pueblo. Tenían una mejor opinión de su propia política que de la sabiduría de Dios. De esta manera nos arruinamos creyendo más los informes y representaciones de los sentidos que la revelación divina. Andamos por vista, no por fe.
+Moisés encargó esto a los espías: Tened valor. No sólo era una gran empresa a la que fueron asignados, que exigía buena administración y resolución sino una gran confianza se puso en ellos, que requería que fueran fieles. El valor en tales circunstancias puede surgir únicamente de la fe firme que sólo Caleb y Josué poseían.</p>
+<br/>
+<p class="text-justify">Vv. 21-25.Los exploradores de la tierra trajeron consigo un racimo de uvas y otras frutas como prueba de las bondades de la tierra; lo cual era para Israel, las arras y lo mejor de todas las frutas de Canaán. Tales son los consuelos presentes que tenemos en comunión con Dios, anticipos de la plenitud del gozo que esperamos tener en la Canaán celestial. Por ellos podemos ver lo que es el cielo.</p>
+<br/>
+<p class="text-justify">Vv. 26-33.Podemos preguntarnos asombrados por qué el pueblo de Israel esperó cuarenta días el retorno de sus espías, cuando estaban listos para entrar a Canaán, con todas las garantías del éxito que podían recibir del poder divino y de los milagros que hasta entonces los habían acompañado. Pero desconfiaron del poder y de la promesa de Dios. ¡Cuántas veces, por nuestra incredulidad, nos dejamos guiar por nuestra propia luz! Los mensajeros regresaron finalmente, pero la mayoría desanimó al pueblo para que no entrara en Canaán. Los israelitas son justamente dejados a merced de esta tentación de confiar en el juicio de los hombres, cuando tenían que confiar en la palabra de Dios. Habían encontrado la tierra tan buena como Dios había dicho, sin embargo, no creyeron que fuera tan segura como Él había dicho, y desesperaron de poseerla aunque la Verdad Eterna la había entregado a ellos. Esta fue la representación de los malos espías.
+Sin embargo, Caleb los estimuló a seguir adelante, aunque fue secundado solamente por Josué. Él no dice, vamos y venzamos, sino vamos y poseeámosla. Las dificultades que hay en el camino de la salvación pierden importancia y se esfuman ante una fe viva y activa en el poder y la promesa de Dios. Todas las cosas son posibles para aquel que cree, si han sido prometidas; pero no se tiene que creer a los sentidos ni a los profesantes que son carnales. La incredulidad pasa por alto las promesas y el poder de Dios, magnifica cada peligro y dificultad, y llena de desaliento el corazón. ¡Que el Señor nos ayude a creer! Entonces encontraremos que todas las cosas son posibles.</p>
+<br/>
+
+
+
+
+</div>

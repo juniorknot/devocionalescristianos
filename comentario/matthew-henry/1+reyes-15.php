@@ -1,0 +1,16 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">1 Reyes 15</h2>
+<p class="text-justify">Vv. 1-8.El corazón de Abiam no era perfecto para con Jehová su Dios; él quería sinceridad; empezó bien, pero cayó y anduvo en todos los pecados de su padre, siguiendo su mal ejemplo, aunque había visto las malas consecuencias. La familia de David continuó como lámpara en Jerusalén, para mantener allí la verdadera adoración de Dios, cuando la luz de la verdad divina estaba extinguida en todos los demás lugares. El Señor aún cuida su causa mientras quienes debieron servir en ella, vivieron y perecieron en sus pecados. El Hijo de David aún seguiría siendo una luz para su iglesia, para establecerla en verdad y justicia al final del tiempo.
+Hay dos clases de cumplimiento de la ley: uno por la ley y el otro por el evangelio . Es legal cuando los hombres hacen las cosas requeridas en la ley y para sí mismos. Nadie nunca cumplió así la ley, salvo Cristo y Adán antes de caer. La manera de cumplir la ley por el evangelio es creer en Cristo que ha cumplido la ley por nosotros y proponerse en todo el obedecer a Dios en todos sus preceptos. Esto es aceptado por Dios como por todos los que son en Cristo. Así se dice que David y otros cumplieron la ley.</p>
+<br/>
+<p class="text-justify">Vv. 9-24.Asa hizo lo recto a ojos de Jehová. Recto es sin duda lo que es bueno a los ojos de Dios. El período de Asa fue de reforma. Eliminó lo malo; su reforma empieza con eso, y halló mucho que hacer. Cuando Asa halló idolatría en la corte, la extirpó de raíz. La reforma debe empezar por casa. Asa honra y respeta a su madre; él la quiere, pero ama más a Dios. Quienes tienen poder son dichosos cuando tienen un corazón que les permite usarlo bien. No sólo debemos dejar de hacer lo malo; tenemos que aprender a hacer lo bueno; no sólo quitar los ídolos de nuestra iniquidad, sino dedicarnos nosotros mismos, y todo lo que tenemos, a la honra y gloria de Dios.
+Asa se dedicó cordialmente al servicio de Dios, y sus pecados no surgieron de atrevimiento. Pero su alianza con Ben-Hadad surgió de falta de fe. Aun los creyentes verdaderos encuentran difícil confiar en el Señor con todo el corazón en momentos de peligro inminente. La falta de fe da lugar a la política carnal y, así se abre paso a un pecado tras otro. La falta de fe ha llegado al punto de llevar a los cristianos a pedir socorro de los enemigos del Señor, en sus luchas contra los hermanos; algunos que una vez resplandecieron, han sido cubiertos por una nube negra al final de sus días.</p>
+<br/>
+<p class="text-justify">Vv. 25-34.Durante el reinado de Asa en Judá, el gobierno de Israel estuvo en seis o siete manos diferentes. Obsérvese la ruina de la familia de Jeroboam; ninguna palabra de Dios caerá en tierra. Las amenazas divinas no son sólo para aterrorizar.
+Los impíos ejecutan los justos juicios de Dios uno contra el otro. Pero en medio de pecados espantosos y esta aparente confusión, el Señor lleva adelante su plan: cuando esté completo, la justicia, sabiduría y misericordia gloriosas allí desplegadas, será admiradas y adoradas por todas las edades de la eternidad.</p>
+<br/>
+
+
+
+
+</div>

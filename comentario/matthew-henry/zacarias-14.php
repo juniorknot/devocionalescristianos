@@ -1,0 +1,18 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">Zacarías 14</h2>
+<p class="text-justify">Vv. 1-7.El Señor Jesús estuvo a menudo en el Monte de los Olivos cuando estuvo en la tierra. Ascendió desde allí al cielo y, luego, vinieron desolaciones y angustias a la nación judía. Tal es el punto de vista figurado que se toma de esto, pero muchos lo consideran como noticia de sucesos aún sin cumplir, y que se refieren a trastornos de los cuales no podemos ahora formarnos una idea cabal. Todo creyente, estando emparentado a Dios como su Dios, puede triunfar en la expectativa de la venida de Cristo con poder, y hablar de ella con placer. Durante una larga temporada el estado de la Iglesia será deformado por el pecado; habrá una mezcla de verdad y error, de dicha y desgracia. Tal es la experiencia del pueblo de Dios, un estado mixto de gracia y corrupción, pero, cuando la temporada esté en lo peor, y sea menos promisoria, el Señor convertirá en luz las tinieblas; la liberación viene cuando el pueblo de Dios haya terminado de buscarla.</p>
+<br/>
+<p class="text-justify">Vv. 8-15.Algunos consideran que el avance del evangelio, empezando desde Jerusalén, se representa por las aguas vivas que fluyen de esa ciudad. Tampoco fallarán nunca el evangelio y los medios de gracia, ni las gracias del Espíritu obradas en los corazones de los creyentes por esos medios, debido al ardor de la persecución o a las tormentas de la tentación, o a los estallidos de cualquier otra aflicción. Se anuncian aquí tremendos juicios que recaerán sobre los que se opongan al establecimiento de los judíos en su tierra. Cuando distan de ser entendidas literalmente las cosas que los hechos solos pueden determinar.
+La ira y la maldad enfurecidas que incitan a los hombres unos contra otros, son pálidas sombras de la enemistad que reina entre los que han perecido en sus pecados. Hasta las criaturas inferiores sufren a menudo por el pecado del hombre, y en sus plagas. Así, Dios mostrará su desagrado por el pecado.</p>
+<br/>
+<p class="text-justify">Vv. 16-21.Como es imposible que todas las naciones vayan literalmente a Jerusalén una vez al año para celebrar una fiesta, es evidente que aquí hay un significado figurado.
+La adoración evangélica se representa por guardar la fiesta de los tabernáculos. Cada día de la vida de un cristiano es un día de fiesta de los tabernáculos; cada día del Señor es, en especial, el día grande de la fiesta; por tanto, cada día adoremos a Jehová de los ejércitos, y guardemos cada día del Señor con peculiar solemnidad.
+Justo es que Dios retenga las bendiciones de la gracia de quienes no asisten a los medios de gracia. Es un pecado que es su propio castigo; los que abandonan el deber, abandonan el privilegio de comunión con Dios.
+Llegará un tiempo de completa paz y pureza de la Iglesia. Los hombres ejecutarán sus asuntos corrientes y sus servicios sagrados con los mismos principios santos de fe, amor y obediencia. La santidad real será más difundida, porque habrá un derramamiento más pleno que nunca antes del Espíritu de santidad. Habrá santidad hasta en las cosas corrientes.
+Toda acción y todo goce del creyente será así regulada según la voluntad de Dios, para que sea dirigida a su gloria. Nuestra vida entera será como un sacrificio o acto de devoción constante; ningún motivo egoísta dominará ninguna de nuestras acciones. ¡Pero, cuán lejos está la Iglesia cristiana de este estado de pureza! Sin embargo, se aproximan otros tiempos y el Señor reformará y agrandará su Iglesia, como ha prometido. Pero sólo en el cielo hay perfecta santidad y felicidad.</p>
+<br/>
+
+
+
+
+</div>

@@ -1,0 +1,15 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">2 Reyes 25</h2>
+<p class="text-justify">Vv. 1-7.Jerusalén estaba tan fortificada que no podía ser tomada hasta que el hambre volviera a los sitiados incapaces de resistir. Encontramos más sobre este acontecimiento en la profecía de Jeremías y las Lamentaciones; baste aquí decir que la impiedad y la desgracia de los sitiados fueron muy grandes. A la larga, la ciudad fue tomada por asalto. El rey, su familia y sus grandes hombres escaparon de noche por pasajes secretos. Pero se engañan los que piensan escapar de los juicios de Dios, tanto como los que se creen capaces de desafiarlos. Por lo que le pasó a Sedequías se cumplieron dos profecías, aunque parecen contradecirse. Jeremías profetizó que Sedequías sería llevado a Babilonia, Jeremías xxxii, 5; xxxiv, 3; Ezequiel, que no vería Babilonia, Ezequiel xii, 13. Fue llevado hasta allá, pero le sacaron los ojos, así que no la vio.</p>
+<br/>
+<p class="text-justify">Vv. 8-21.La ciudad y el templo fueron incendiados y, probablemente, el arca dentro del templo. Dios mostró con esto cuán poco le importa la pompa externa de su adoración, cuando se descuidan la vida y el poder de la religión.
+Los muros de Jerusalén fueron derribados, y el pueblo, llevado cautivo a Babilonia. Se llevaron los utensilios del templo. Cuando se peca contra las cosas representadas, ¿para qué sirven los símbolos? Fue justo que Dios privara del beneficio de su adoración a los que prefirieron los cultos falsos antes que a Él; los que tuvieron muchos altares ahora no tienen ninguno. Así como el Señor no perdonó a los ángeles que pecaron, así como condenó a la tumba a toda la raza de hombres caídos, y a todos los incrédulos al infierno, y así como no escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros, así no deben sorprendernos las miserias que puede traer sobre naciones, iglesias y personas culpables.</p>
+<br/>
+<p class="text-justify">Vv. 22-30.El rey de Babilonia nombró a Gedalías para que fuera el gobernador y protector de los judíos que quedaron en su tierra. Pero las cosas pertenecientes a su paz estaban tan escondidas de sus ojos que no se dieron cuenta del bien que poseían. Ismael lo mató malignamente a él y todos sus amigos y, contra el consejo de Jeremías, el resto se fue a Egipto. Así se realizó el final definitivo de ellos por su propia necedad y desobediencia; véase Jeremías, capítulos xl a xlv.
+Joaquín fue liberado de la cárcel donde estuvo por 37 años. Que nadie diga que más nunca volverá a ver el bien por llevar mucho tiempo viendo solo el mal: hasta el más miserable no sabe cuando la providencia dará un vuelco, ni qué consuelos les están reservados, conforme a los días en que fueron afligidos. Aun en este mundo el Salvador trae liberación de la esclavitud al pecador afligido que le busca, y le concede probar anticipadamente algo de los placeres que hay a su diestra por siempre. El pecado sólo puede herirnos; Jesús sólo puede hacer el bien a los pecadores.</p>
+<br/>
+
+
+
+
+</div>

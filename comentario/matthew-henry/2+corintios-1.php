@@ -1,0 +1,16 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">2 Corintios 1</h2>
+<p class="text-justify">Vv. 1-11.Se nos exhorta a ir directamente al trono de la gracia para obtener misericordia y hallar gracia para el oportuno socorro en tiempo de necesidad. El Señor es capaz de dar paz a la conciencia turbada y de calmar las pasiones rugientes del alma. Estas bendiciones son dadas por Él como Padre de su familia redimida. Nuestro Salvador es quien dice: No se turbe vuestro corazón.
+Toda consolación viene de Dios y nuestras consolaciones más dulces están en Él. Da paz a las almas otorgando remisión gratuita de pecados, y las consuela por la influencia vivificante del Espíritu Santo, y por las ricas misericordias de su gracia. Él es capaz de vendar el corazón roto, de sanar las heridas más dolorosas, y de dar esperanza y gozo en las aflicciones más pesadas. Los favores que Dios nos otorga no son sólo para alegrarnos, sino también para que podamos ser útiles al prójimo. Él envía consuelos suficientes para sostener a los que simplemente confían en Él y le sirven. Si fuéramos llevados tan bajo como para desesperar hasta de vivir, aun entonces podemos confiar en Dios para el tiempo venidero. Nuestro deber es no sólo ayudarnos unos a otros con oración, sino en la alabanza y la acción de gracias y, por ellas, dar retorno adecuado a los beneficios recibidos. De esta manera, las pruebas y las misericordias terminarán bien para nosotros y el prójimo.</p>
+<br/>
+<p class="text-justify">Vv. 12-14.Aunque como pecador el apóstol sólo podía regocijarse y gloriarse en Cristo Jesús, como creyente podía regocijarse y gloriarse en ser realmente lo que confesaba. La conciencia atestigua acerca del curso y tenor constantes de la vida. Por eso, podemos juzgarnos y no por este o aquel acto aislado. Nuestra conversación será bien ordenada, cuando vivamos y actuemos bajo el principio de la gracia en el corazón. Teniendo esto, podemos dejar nuestros caracteres en las manos del Señor, pero usando los medios apropiados para aclararlos, cuando el mérito del evangelio o nuestra utilidad, así lo exija.</p>
+<br/>
+<p class="text-justify">Vv. 15-24. El apóstol se defiende del cargo de liviandad e inconstancia al no ir a Corinto. Los hombres buenos deben tener cuidado de mantener su reputación de sinceridad y constancia; ellos no deben resolver, sino basados en la reflexión cuidadosa; y ellos no cambiarán a menos que haya razones de peso.
+Nada puede volver más ciertas las promesas de Dios: que sean dadas por medio de Cristo nos asegura que son sus promesas; como las maravillas que Dios obró en la vida, la resurrección, y la ascensión de Su Hijo, confirman la fe. El Espíritu Santo afirma a los cristianos en la fe del evangelio: el despertar del Espíritu es una primicia de la vida eterna: los consuelos del Espíritu son una primicia del gozo eterno.
+El apóstol deseaba ahorrarse la culpa que se temía sería inevitable si hubiera ido a Corinto antes de saber qué efecto produjo su carta anterior. Nuestra fuerza y habilidad se deben a la fe; y nuestro consuelo y gozo deben fluir de la fe. Los temperamentos santos y los frutos de la gracia que asisten a la fe, aseguran contra el engaño en una materia tan importante.</p>
+<br/>
+
+
+
+
+</div>

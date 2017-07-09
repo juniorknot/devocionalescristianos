@@ -1,0 +1,15 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">Eclesiastés 2</h2>
+<p class="text-justify">Vv. 1-11.Salomón pronto encontró que la alegría y el placer son vanidad. ¿Qué hace la alegría ruidosa y brillante, pero transitoria, para hacer feliz al hombre? Los múltiples inventos del corazón del hombre para obtener satisfacción en el mundo, y su cambio de una cosa a otra, son como la inquietud del hombre con fiebre. Al darse cuenta que era necedad darse al vino, en seguida prueba las costosas diversiones de los príncipes. Los pobres, cuando leen tal descripción, están prontos a sentirse descontentos. Pero el remedio contra todos esos sentimientos está en la estimación de todo por parte del autor que reconoce su resultado. Toda era vanidad y aflicción de espíritu: y las mismas cosas rendirían el mismo resultado para nosotros, que para Salomón. Teniendo comida y ropa, estemos contentos con eso.
+Su sabiduría permaneció con él; un firme entendimiento con un gran conocimiento humano. Pero todo placer terrenal, cuando está desconectado con las mejores bendiciones, deja la mente tan ansiosa e insatisfecha como antes. La felicidad no surge de la situación en que somos puestos. Sólo a través de Jesucristo se puede obtener la dicha final.</p>
+<br/>
+<p class="text-justify">Vv. 12-17.Salomón halla que el conocimiento y la prudencia son preferibles a la ignorancia y necedad, aunque la sabiduría y el conocimiento humano no harán feliz al hombre. Los hombres más doctos que mueran ajenos a Cristo Jesús, perecerán igualmente con el más ignorante; ¿y qué bien puede recomendarse en la tierra para el cuerpo en la tumba o el alma en el infierno? Y los espíritus de los hombres justos hechos perfectos no pueden quererlos. Así que si esto fuese todo, podríamos ser guiados a odiar nuestra vida, porque todo es vanidad y aflicción de espíritu.</p>
+<br/>
+<p class="text-justify">Vv. 18-26.Nuestros corazones son muy reacios a abandonar sus expectativas de grandes cosas de parte de la criatura, pero Salomón llegó a esto finalmente. El mundo es un valle de lágrimas aun para los que tienen mucho. Véase cuán necios son los que se hacen esclavos del mundo, que no puede permitir al hombre nada mejor que sustento para el cuerpo. Lo máximo que se puede obtener en este aspecto es permitirse un uso sobrio y grato conforme a su rango y condición. Pero debemos disfrutar lo bueno en nuestro trabajo; debemos usar las cosas que nos hagan diligentes y alegres en los negocios mundanos. Esto es dádiva de Dios.
+Las riquezas son bendición o maldición para el hombre conforme tenga o no un corazón para hacer buen uso de ellas. A los que son aceptados del Señor, les da gozo y satisfacción en su conocimiento y su amor, pero al pecador le asigna esfuerzo, tristezas, vanidad y aflicción al procurar la porción del mundo que, no obstante, después va a parar a mejores manos. Que el pecador considere seriamente su final definitivo. Procurar una porción perdurable en el amor de Cristo y las bendiciones que concede, es el camino único al goce verdadero y satisfactorio aun de este mundo presente.</p>
+<br/>
+
+
+
+
+</div>

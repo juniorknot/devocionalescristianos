@@ -1,0 +1,19 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">1 Samuel 1</h2>
+<p class="text-justify">Vv. 1-8.Elcana seguía atendiendo el altar de Dios a pesar de las desdichadas diferencias de su familia. Si la vida devocional de una familia no prevalece para poner fin a sus divisiones, no se debe permitir que las divisiones acaben con la vida devocional. Disminuir nuestro amor justo por un pariente por una enfermedad inevitable, y que es motivo de aflicción, es hacer que la providencia de Dios riña con su precepto y es añadir, con maldad, aflicción al afligido. Prueba de una mala disposición es deleitarse en provocar dolor a quien tiene un espíritu entristecido e inquietar a quien tienen la tendencia a afanarse e incomodarse. Debemos llevar los unos las cargas de los otros, no aumentarlas. Ana no podía soportar la provocación. Quienes son de espíritu afanoso y dados a tomar muy en serio las provocaciones, son enemigos de sí mismos y se despojan de muchos consuelos, tanto de la vida como de la piedad. Hemos de notar el consuelo y no lamentar las cruces. Debemos mirar lo que está por nosotros, como también a lo que está contra nosotros.</p>
+<br/>
+<p class="text-justify">Vv. 9-18.Ana mezclaba las lágrimas con sus oraciones; consideraba la misericordia de nuestro Dios que conoce al alma atribulada. Dios nos da permiso, en oración, no sólo para pedir cosas buenas en general, sino para mencionar aquello que en especial más necesitamos y deseamos. Hablaba quedamente, nadie la podía oír. Con eso testificaba de su fe en Dios que conoce el corazón y sus deseos.
+Elí era el sumo sacerdote y juez de Israel. No nos corresponde ser rudos y precipitados para censurar al prójimo, y pensar que la gente es culpable de cosas malas mientras el asunto sea dudoso y esté sin demostrar.
+Ana no contestó la acusación ni enrostró a Elí la mala conducta de sus propios hijos. En cualquier momento en que nos estén censurando injustamente, debemos poner doble guardia a la puerta de nuestros labios para no devolver reproche por reproche. Ana lo pensó bastante para tener todo claro, y así debemos hacerlo.
+Elí estuvo dispuesto a reconocer su error. Ana se fue satisfecha. En oración ella había encargado su caso a Dios y Elí había orado por ella. La oración es la calma del corazón para un alma bondadosa. La oración suavizará el rostro; debe hacerlo así. Nadie seguirá sintiéndose desgraciado por mucho tiempo si usa bien el privilegio de ir al trono de misericordia de un Dios reconciliado en Cristo Jesús.</p>
+<br/>
+<p class="text-justify">Vv. 19-28.Elcana y su familia tenían un viaje por delante y una familia con niños que llevar consigo, pero no se moverían hasta que hubieran adorado juntos a Dios. La oración y las vituallas no estorban el viaje. Cuando los hombres tienen tanta prisa, para empezar sus viajes o emprender un negocio, que no tienen tiempo para adorar a Dios, probablemente procedan sin su presencia y sin su bendición.
+Ana, aunque sentía un cálido afecto por los atrios de la casa de Dios, rogaba quedarse en casa. Dios quiere misericordia y no sacrificio. Quienes se ven privados de las ordenanzas públicas porque crían y cuidan niños pequeños, pueden consolarse con este caso y creer, que si cumplen ese deber con el espíritu justo, Dios los aceptará bondadosamente.
+Ana presentó su hijo al Señor con reconocimiento y gratitud por su bondad para contestar la oración. Lo que demos a Dios es lo que primero pedimos y recibimos de Él. Todas nuestras dádivas para Él primero fueron dádivas suyas para nosotros.
+El niño Samuel demostró precozmente una piedad verdadera. Se debiera enseñar a los niñitos a adorar a Dios cuando son muy pequeños. Sus padres debieran enseñarlos en eso, llevarlos a eso y ponerlos a que lo hagan lo mejor que puedan; Dios los aceptará bondadosamente y les enseñará a hacerlo mejor.</p>
+<br/>
+
+
+
+
+</div>

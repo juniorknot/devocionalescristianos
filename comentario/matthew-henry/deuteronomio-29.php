@@ -1,0 +1,18 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">Deuteronomio 29</h2>
+<p class="text-justify">Vv. 1-9.Debemos pensar que las misericordias, antiguas y las nuevas, son motivo de obediencia. El oído que oye, y el ojo que ve, y el corazón que entiende, son dádivas de Dios. Todos los que los tienen, los han recibido de Él. Dios no sólo da comida y ropa, sino riqueza y grandes posesiones a muchos que no les da su gracia. Hay muchos que disfrutan de sus dones, que no tienen corazón para reconocer al Dador, ni darse cuenta del verdadero designio y uso de las dádivas. Por gratitud e interés, por deber y fidelidad, estamos obligados a guardar las palabras del pacto.</p>
+<br/>
+<p class="text-justify">Vv. 10-21.El pacto nacional hecho con Israel no sólo tipifica el pacto de gracia hecho con los verdaderos creyentes, sino representa además la dispensación externa del evangelio. Quienes han sido capacitados para recibir el nuevo pacto de misericordia y gracia de Jehová en Jesucristo, y entregarse para ser su pueblo, deben aprovechar toda oportunidad de renovar su profesión franca de relación con Él y su obligación con Él, como Dios de salvación, y caminar en conformidad con ello.
+Se describe al pecador como uno cuyo corazón se aleja de Dios; allí empieza la maldad, en el corazón malo de la incredulidad, que inclina a los hombres a alejarse del Dios vivo para ir a ídolos muertos. Aun a este pecado son tentados los hombres ahora, cuando sus propias lujurias y fantasías los descarrían. Tales hombres son raíces que producen hiel y amargura. Ellos son malezas que, si se las deja solas, se esparcen por todo el campo. Satanás puede disfrazar este bocado amargo por un tiempo, para que no disciernas el sabor natural, pero, en el día postrero, si no antes, el sabor verdadero se hará patente.
+Fijaos en la seguridad del pecador en el pecado. Aunque oye las palabras de la maldición, todavía piensa que está a salvo de la ira de Dios. Difícilmente haya en todo el libro de Dios una amenaza más espantosa que esta. ¡Oh, que los pecadores presuntuosos la lean y tiemblen! Porque es una declaración real de la ira de Dios contra toda impiedad e injusticia de los hombres.</p>
+<br/>
+<p class="text-justify">Vv. 22-28. La idolatría será la ruina de su nación. No es cosa nueva que Dios acarree juicios desoladores sobre un pueblo cercano a Él por profesión. Nunca hace esto sin una buena razón. Nos corresponde buscar la razón, para que demos gloria a Dios y nos demos por advertidos.
+De manera que la ley de Moisés deja a los pecadores bajo la maldición y sin raíces en la tierra del Señor, pero la gracia de Cristo para con los pecadores arrepentidos que creen, los planta de nuevo en su tierra, y no serán arrancados, resguardados por el poder de Dios.</p>
+<br/>
+<p class="text-justify">V. 29.Moisés termina su profecía del rechazo de los judíos, de la manera que San Pablo termina su sermón sobre el tema, cuando empieza a cumplirse, Romanos xi, 33. Se nos prohíbe inquirir por curiosidad en los consejos secretos de Dios y decidir al respecto. Pero se nos dirige y estimula a que escudriñemos diligentemente en aquello que Dios ha dado a conocer. Él no ha retenido nada que sea provechoso para nosotros, sino sólo lo que es bueno que ignoremos. El fin de toda revelación divina no es darnos temas curiosos de especulación y discusión, sino que podamos hacer todas las palabras de esta ley y ser bendecidos en nuestro obrar . La Biblia revela claramente esto; más allá de esto no pueden ir provechosamente los hombres. Por esta luz uno puede vivir y morir cómodamente y ser feliz para siempre.</p>
+<br/>
+
+
+
+
+</div>

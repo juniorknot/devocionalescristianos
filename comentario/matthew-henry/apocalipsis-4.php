@@ -1,0 +1,14 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">Apocalipsis 4</h2>
+<p class="text-justify">Vv. 1-8.Después que el Señor Jesús hubo instruido al apóstol para que escribiera “las cosas que son”a las iglesias, hubo otra visión. El apóstol vio un trono puesto en el cielo, un emblema del dominio universal de Jehová. Vio a Uno glorioso en el trono, no descrito por rasgos humanos, como para ser representado por una semejanza o imagen, sino sólo por su fulgor sin igual. Estos parecen símbolos de la excelencia de la naturaleza divina, y de la temible justicia de Dios. El arco iris es un símbolo apropiado del pacto de promesas que Dios ha hecho con Cristo, como Cabeza de la Iglesia, y con todo su pueblo en Él. El color dominante era un verde agradable, mostrando la naturaleza revivida y refrescante del nuevo pacto.
+Había veinticuatro asientos alrededor del trono donde estaban veinticuatro ancianos, que probablemente, representan a toda la Iglesia de Dios. Que estuvieran sentados significa honra, reposo y satisfacción; que ellos estén sentados alrededor del trono significa la cercanía a Dios, la vista y el deleite que tienen en Él. Los ancianos visten ropajes blancos; la justicia imputada a los santos, y su santidad: tenían en sus cabezas coronas de oro, significando la gloria que tienen con Él. Rayos y voces salían del trono; las temibles declaraciones que hace Dios a su iglesia acerca de su soberana voluntad y placer.
+Había siete lámparas de fuego ardiendo delante del trono; los dones, las gracias y las operaciones del Espíritu de Dios en las iglesias de Cristo, dispensadas conforme a la voluntad y al placer del que se sienta en el trono. En la Iglesia del evangelio, el lavacro para la purificación es la sangre del Señor Jesucristo, que limpia de todo pecado. En esta deben ser lavados todos para ser admitidos por gracia en la presencia de Dios en la tierra, y ante su gloriosa presencia en el cielo.
+El apóstol vio a cuatro seres vivientes entre el trono y el círculo de los ancianos, puestos entre Dios y la gente. Estos parecieran significar a los verdaderos ministros del evangelio por su lugar entre Dios y la gente. También esto lo señala la descripción que se da, la cual significa sabiduría, valor, diligencia y discreción, y los afectos por los cuales suben al cielo.</p>
+<br/>
+<p class="text-justify">Vv. 9-11.Todos los creyentes verdaderos atribuyen su redención y conversión, sus privilegios presentes y esperanzas futuras al eterno y supremamente santo Dios. Así suben al cielo los cánticos agradecidos y por siempre armoniosos de los redimidos. En la tierra hagamos como ellos, que nuestras alabanzas sean constantes, ininterrumpidas, unidas, indivisas, agradecidas, no frías ni formales; humildes y no confiadas en sí mismas.</p>
+<br/>
+
+
+
+
+</div>

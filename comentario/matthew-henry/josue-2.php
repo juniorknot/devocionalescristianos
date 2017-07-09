@@ -1,0 +1,16 @@
+<div id="close_comentario"><span>×</span></div><div class="small-12 columns">
+<h2 class="text-center">Josué 2</h2>
+<p class="text-justify">Vv. 1-7.La fe en las promesas de Dios no debe terminar nuestra diligencia para usar los medios adecuados sino estimularla. La providencia de Dios dirigió a los espías a la casa de Rahab. Dios sabía donde había alguien que sería leal con ellos aunque no ellos. Rahab parece haber sido una posadera; y si anteriormente había llevado mala vida, lo cual es dudoso, ella había abandonado sus malos caminos.
+Eso que nos parece más accidental está, a menudo, mandado por la providencia divina para servir grandes finalidades. Fue por fe que Rahab los recibió en paz a ésos, contra los cuales estaban en guerra el rey y la patria de ella. Estamos seguros de que esta fue una buena obra; así es calificada por el apóstol, Santiago ii, 25; y ella lo hizo por fe , fe que la puso por encima del miedo al hombre. Son únicamente creyentes verdaderos aquellos que, en sus corazones, hallan el aventurarse por Dios; ellos toman a Su pueblo por pueblo suyo y corren su suerte con ellos.
+Los espías fueron dirigidos por la providencia especial de Dios y Rahab los atendió por consideración a Israel y al Dios de Israel, y no por lucro o por ningún propósito malo. Aunque puedan ofrecerse disculpas para la culpa de la falsedad de Rahab, parece mejor admitir nada que tienda a explicar aquellos. Los enfoques de ella tocante a la ley divina deben haber sido muy difusos: una falsedad como esta dicha por quien disfrutan de la luz de la revelación, cualquiera sea el motivo, hubiera merecido dura censura.</p>
+<br/>
+<p class="text-justify">Vv. 8-21. Rahab había oído de los milagros que el Señor obraba por Israel. Ella creía que Sus promesas ciertamente se cumplirían y que Sus amenazas se efectuarían; y que no había forma de huir sino someterse a Él y unirse a Su pueblo. La conducta de Rahab demostró que ella tenía el principio real de la fe divina.
+Observe las promesas que los espías le hicieron a ella. La bondad de Dios se expresa a menudo por Su bondad y verdad, Salmo cxvii, 2; en ambos casos debemos ser seguidores de Él. Aquellos que serán conscientes para cumplir las promesas son cautos para formularlas. Los espías estipulan condiciones necesarias. La cuerda escarlata, como la sangre sobre el umbral de la puerta en la pascua, vuelve a recordar la seguridad del pecador bajo la sangre expiatoria de Cristo; y que tenemos que huir allá para refugiarnos de la ira del Dios justo ofendido. La misma cuerda que Rahab usó para la salvación de esos israelitas iba a ser usada para la seguridad de ella. Podemos esperar que aquellos con que sirvamos y honremos a Dios, sea bendecido por Él y hecho útil para nosotros.</p>
+<br/>
+<p class="text-justify">Vv. 22-24.El informe que llevaron los espías fue alentador. Toda la gente del país desfallecía debido a Israel; no tenían sabiduría para rendirse ni valor para pelear. Aquellos terrores de conciencia y esa sensación de la ira divina, que hacen desmayar al impío pero no lo llevan al arrepentimiento, son anticipos temibles de la destrucción que se aproxima. Pero la gracia abunda, no obstante, para el principal de los pecadores. Que ellos huyan a Cristo sin demora y todo saldrá bien.</p>
+<br/>
+
+
+
+
+</div>
