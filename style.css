@@ -160,6 +160,7 @@ html,body{display:block;height:100%;background-color:#FFFFFF;font-family:arial,s
 
 .table_cap .sticky {
     position: fixed;
+    background-color: white;
     z-index: 2;
     max-width: 11px;
     top: 50% !important;
