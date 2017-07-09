@@ -7,6 +7,8 @@ if(isset($request['version'])) {
 	// the following line prevents the browser from parsing this as HTML.
 	header('Content-Type: text/plain');
 
+	
+
 	// get the file contents, assuming the file to be readable (and exist)
 	$contents = file_get_contents($file);
 	// escape special characters in the query
